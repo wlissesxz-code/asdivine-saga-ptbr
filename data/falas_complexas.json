@@ -1,0 +1,3146 @@
+[
+[
+[
+"A\udc81 Flying the Airship",
+"When standing adjacent to the airship on land, a Ride icon will appear in",
+"the lower right of the screen, and pressing the B\udc81 button will ride."
+],
+[
+"A\udc81 Voando de Dirig\u00edvel",
+"Ao lado do dirig\u00edvel em terra, aparece um \u00edcone de Embarcar no",
+"canto inferior direito da tela; o bot\u00e3o B\udc81 faz embarcar."
+]
+],
+[
+[
+"C\udc81 Deboarding the Airship",
+"When the airship is over a landable area, a Get Off icon will appear in",
+"the lower right of the screen, and pressing the B\udc81 button will deboard.%J('00770e)%"
+],
+[
+"C\udc81 Desembarcando do Dirig\u00edvel",
+"Sobre uma \u00e1rea de pouso, aparece um \u00edcone de Desembarcar no",
+"canto inferior direito; o bot\u00e3o B\udc81 faz desembarcar.%J('00770e)%"
+]
+],
+[
+[
+"A\udc81 Flying the Airship",
+"When standing adjacent to the airship on land, a Ride icon will appear in",
+"the lower right of the screen, and pressing D\u30fb\udc81 will ride."
+],
+[
+"A\udc81 Voando de Dirig\u00edvel",
+"Ao lado do dirig\u00edvel em terra, aparece um \u00edcone de Embarcar no",
+"canto inferior direito da tela; D\u30fb\udc81 faz embarcar."
+]
+],
+[
+[
+"C\udc81 Deboarding the Airship",
+"When the airship is over a landable area, a Get Off icon will appear in",
+"the lower right of the screen, and pressing D\u30fb\udc81 will deboard."
+],
+[
+"C\udc81 Desembarcando do Dirig\u00edvel",
+"Sobre uma \u00e1rea de pouso, aparece um \u00edcone de Desembarcar no",
+"canto inferior direito; D\u30fb\udc81 faz desembarcar."
+]
+],
+[
+[
+"The airship is basically free to fly anywhere, but landable",
+"areas are limited to stable ground such as grassy plains, etc."
+],
+[
+"O dirig\u00edvel voa livremente para qualquer lugar, mas s\u00f3",
+"pode pousar em terreno firme, como plan\u00edcies, etc."
+]
+],
+[
+[
+"Danger within!",
+"Entrance is prohibited!"
+],
+[
+"Perigo l\u00e1 dentro!",
+"Entrada proibida!"
+]
+],
+[
+[
+"F\udc81 Asdivine F\u2015B",
+"A world where both sword and magic cross.\\B",
+"F\udc81 Lightoria F\u2015B",
+"The kingdom that worships the Light Deity.\\B",
+"F\udc81 Zandark F\u2015B",
+"The kingdom that worships the Shadow Deity.\\B",
+"Together, they once promoted peace and maintained balance.\\B",
+"However, that balance crumbled when the rulers of these\\B",
+"two Kingdoms suddenly declared war on each other.\\B",
+"This erupting war dragged the citizens into a state of panic.\\B",
+"And the ripples of it spread to even NondiaF\u2015B",
+"a country that had stood neutral in all of this...\\B"
+],
+[
+"F\udc81 Asdivine F\u2015B",
+"Um mundo onde a espada e a magia se cruzam.\\B",
+"F\udc81 Lightoria F\u2015B",
+"O reino que venera a Divindade da Luz.\\B",
+"F\udc81 Zandark F\u2015B",
+"O reino que venera a Divindade da Sombra.\\B",
+"Juntos, eles j\u00e1 promoveram a paz e mantiveram o equil\u00edbrio.\\B",
+"No entanto, esse equil\u00edbrio ruiu quando os governantes\\B",
+"destes dois Reinos declararam guerra um ao outro.\\B",
+"A guerra que irrompeu lan\u00e7ou os cidad\u00e3os ao p\u00e2nico.\\B",
+"E seus ecos chegaram at\u00e9 mesmo a NondiaF\u2015B",
+"um pa\u00eds que se mantivera neutro em tudo isso...\\B"
+]
+],
+[
+[
+"G\udc81 Character Controls G\udc81",
+"Use the directional buttons/left stick to move the",
+"player character in eight directions."
+],
+[
+"G\udc81 Controles do Personagem G\udc81",
+"Use os bot\u00f5es direcionais/anal\u00f3gico esquerdo para mover o",
+"personagem em oito dire\u00e7\u00f5es."
+]
+],
+[
+[
+"NPCs can be talked to as well as places of interest",
+"searched by moving the character adjacent to them",
+"and pressing the B\udc81 button."
+],
+[
+"\u00c9 poss\u00edvel falar com NPCs e examinar pontos de interesse",
+"posicionando o personagem ao lado deles",
+"e pressionando o bot\u00e3o B\udc81."
+]
+],
+[
+[
+"G\udc81 Buttons G\udc81",
+"A\udc81 Mini Map : H\udc81 Button",
+"Changes mini map display size."
+],
+[
+"G\udc81 Bot\u00f5es G\udc81",
+"A\udc81 Minimapa : Bot\u00e3o H\udc81",
+"Altera o tamanho de exibi\u00e7\u00e3o do minimapa."
+]
+],
+[
+[
+"Menu : I\udc81 Button",
+"Opens the Menu screen."
+],
+[
+"Menu : Bot\u00e3o I\udc81",
+"Abre a tela de Menu."
+]
+],
+[
+[
+"Save : J\udc81 Button",
+"Saves current game."
+],
+[
+"Salvar : Bot\u00e3o J\udc81",
+"Salva o jogo atual."
+]
+],
+[
+[
+"World Map : K\udc81 Button",
+"Shows the world map."
+],
+[
+"Mapa-m\u00fandi : Bot\u00e3o K\udc81",
+"Mostra o mapa-m\u00fandi."
+]
+],
+[
+[
+"Conversation History : J\udc81 Button",
+"Opens the conversation history",
+"during event scenes.%J('006ac7)%"
+],
+[
+"Hist\u00f3rico de Conversas : Bot\u00e3o J\udc81",
+"Abre o hist\u00f3rico de conversas",
+"durante as cenas de evento.%J('006ac7)%"
+]
+],
+[
+[
+"G\udc81 Character Controls G\udc81",
+"Use L\uff40\udc81 to move the",
+"player character in eight directions."
+],
+[
+"G\udc81 Controles do Personagem G\udc81",
+"Use L\uff40\udc81 para mover o",
+"personagem em oito dire\u00e7\u00f5es."
+]
+],
+[
+[
+"NPCs can be talked to as well as places of interest",
+"searched by moving the character adjacent to them",
+"and pressing D\u30fb\udc81."
+],
+[
+"\u00c9 poss\u00edvel falar com NPCs e examinar pontos de interesse",
+"posicionando o personagem ao lado deles",
+"e pressionando D\u30fb\udc81."
+]
+],
+[
+[
+"G\udc81 Buttons G\udc81",
+"A\udc81 Mini Map : N\udc81",
+"Changes mini map display size."
+],
+[
+"G\udc81 Bot\u00f5es G\udc81",
+"A\udc81 Minimapa : N\udc81",
+"Altera o tamanho de exibi\u00e7\u00e3o do minimapa."
+]
+],
+[
+[
+"Menu : O\udc81",
+"Opens the Menu screen."
+],
+[
+"Menu : O\udc81",
+"Abre a tela de Menu."
+]
+],
+[
+[
+"Save : J\udc81",
+"Saves current game."
+],
+[
+"Salvar : J\udc81",
+"Salva o jogo atual."
+]
+],
+[
+[
+"World Map : P\udc81",
+"Shows the world map."
+],
+[
+"Mapa-m\u00fandi : P\udc81",
+"Mostra o mapa-m\u00fandi."
+]
+],
+[
+[
+"Conversation History : Q\udc81",
+"Opens the conversation history",
+"during event scenes."
+],
+[
+"Hist\u00f3rico de Conversas : Q\udc81",
+"Abre o hist\u00f3rico de conversas",
+"durante as cenas de evento."
+]
+],
+[
+[
+"The basic controls can be viewed at any",
+"time in the %C2%Help%C0% section of the menu."
+],
+[
+"Os controles b\u00e1sicos podem ser vistos a qualquer",
+"momento na se\u00e7\u00e3o %C2%Ajuda%C0% do menu."
+]
+],
+[
+[
+"Did you say... R\u2225 foreign shipR\udc81?"
+],
+[
+"Voc\u00ea disse... R\u2225 navio estrangeiroR\udc81?"
+]
+],
+[
+[
+"In the past, the great continent was divided into three smaller",
+"onesF\udc81%C2%Nondia%C0%, %C2%Lightoria%C0%, and %C2%Zandark%C0%."
+],
+[
+"No passado, o grande continente era dividido em tr\u00eas",
+"menoresF\udc81%C2%Nondia%C0%, %C2%Lightoria%C0% e %C2%Zandark%C0%."
+]
+],
+[
+[
+"The two continents that lie beyond the sea are known as the",
+"Kingdoms of Lightoria and Zandark%C0%."
+],
+[
+"Os dois continentes al\u00e9m do mar s\u00e3o conhecidos como os",
+"Reinos de Lightoria e Zandark%C0%."
+]
+],
+[
+[
+"Dungeons and settlements often have secret passageways in",
+"them. Specific markings on walls and floors indicate where",
+"their entrances lie making it wise to keep an eye out for them."
+],
+[
+"Masmorras e povoados costumam ter passagens secretas.",
+"Marcas espec\u00edficas em paredes e no ch\u00e3o indicam as entradas,",
+"por isso \u00e9 s\u00e1bio ficar de olho nelas."
+]
+],
+[
+[
+"...? %C0%(Don't tell me he pretended to be asleep and actually",
+"fell asleep...)"
+],
+[
+"...? %C0%(N\u00e3o me diga que ele fingiu dormir e acabou dormindo",
+"de verdade...)"
+]
+],
+[
+[
+"I was asking around about Axel's potential whereabouts with",
+" and..."
+],
+[
+"Eu perguntava por a\u00ed sobre o paradeiro de Axel com",
+" e..."
+]
+],
+[
+[
+"Tsch... Then %n4A% went northwest all by herself?! Come on,",
+"! %n3A%! We've got to get after her!"
+],
+[
+"Tsc... Ent\u00e3o a %n4A% foi para o noroeste sozinha?! Vamos,",
+"! %n3A%! Temos que ir atr\u00e1s dela!"
+]
+],
+[
+[
+"What is going to R\u2225ll work outR\udc81?!"
+],
+[
+"O que vai R\u2225dar certoR\udc81?!"
+]
+],
+[
+[
+"Quit pointing the finger and zip it, you!\\B",
+"Hmm hmm hmm. You two are such good friends, aren't you?"
+],
+[
+"Pare de apontar o dedo e fique quieto, voc\u00ea!\\B",
+"Hmm hmm hmm. Voc\u00eas dois s\u00e3o t\u00e3o bons amigos, n\u00e3o s\u00e3o?"
+]
+],
+[
+[
+"Are you familiar with S\udc81-rank rings? We are able to synthesize",
+"them if you did not know."
+],
+[
+"Voc\u00ea conhece os an\u00e9is de rank S\udc81? Podemos",
+"sintetiz\u00e1-los, caso n\u00e3o soubesse."
+]
+],
+[
+[
+"With a Dark Ring and 5 Spirit Gems, I can make a %C2%Shinobi",
+"Ring%C0% any time for you."
+],
+[
+"Com um Anel Sombrio e 5 Gemas Espirituais, posso fazer um %C2%Anel",
+"Shinobi%C0% para voc\u00ea a qualquer hora."
+]
+],
+[
+[
+"Job completed!",
+"Please return and report to the Guild!"
+],
+[
+"Trabalho conclu\u00eddo!",
+"Volte e informe \u00e0 Guilda!"
+]
+],
+[
+[
+"I-It seems I have not properly introduced myself, have I? I am",
+". You are free to call me as such."
+],
+[
+"E-Parece que n\u00e3o me apresentei direito, n\u00e3o \u00e9? Eu sou",
+". Pode me chamar assim."
+]
+],
+[
+[
+"I-Indeed, you are correct. Let us travel %C2%northeast%C0% to %C2%Taranp",
+"Town%C0%."
+],
+[
+"E-Exato. Vamos para o %C2%nordeste%C0% at\u00e9 a %C2%Cidade",
+"de Taranp%C0%."
+]
+],
+[
+[
+"The party now has some free time.",
+"To proceed with the story, speak",
+"with the sailor on board."
+],
+[
+"O grupo agora tem algum tempo livre.",
+"Para prosseguir com a hist\u00f3ria, fale",
+"com o marinheiro a bordo."
+]
+],
+[
+[
+"I mean, did you say R\u300awimR\udc81...?"
+],
+[
+"Quer dizer, voc\u00ea disse R\u300anadarR\udc81...?"
+]
+],
+[
+[
+"T\udc81 Several years later T\u2015K"
+],
+[
+"T\udc81 V\u00e1rios anos depois T\u2015K"
+]
+],
+[
+[
+"Rings also come with ranks: U\udc81 (Delta) being the lowest and",
+"V\udc81 (Beta) being the highest."
+],
+[
+"Os an\u00e9is tamb\u00e9m t\u00eam ranks: U\udc81 (Delta) sendo o mais baixo e",
+"V\udc81 (Beta) o mais alto."
+]
+],
+[
+[
+"Rings can be synthesized up to W\udc81 (gamma)-rank ones. V\udc81",
+"(beta)-rank rings cannot be under normal circumstances."
+],
+[
+"An\u00e9is podem ser sintetizados at\u00e9 o rank W\udc81 (gama). Os V\udc81",
+"(beta) n\u00e3o podem, em circunst\u00e2ncias normais."
+]
+],
+[
+[
+"However, there are supposedly mages out there in the world",
+"that can synthesizes them into an S\udc81 (alpha)-rank ones. It",
+"might be good to find them and rely on them in such a case."
+],
+[
+"No entanto, supostamente existem magos pelo mundo",
+"capazes de sintetiz\u00e1-los em an\u00e9is de rank S\udc81 (alfa). Pode",
+"ser bom encontr\u00e1-los e contar com eles nesse caso."
+]
+],
+[
+[
+"Received %C7%Power Ring%C0% X\udc81 %C7%Intelligence Ring%C0% x1 each!"
+],
+[
+"Recebeu %C7%Anel de Poder%C0% X\udc81 %C7%Anel de Intelig\u00eancia%C0% x1 cada!"
+]
+],
+[
+[
+"Those two make a great couple... You think so too, right,",
+"?"
+],
+[
+"Esses dois formam um \u00f3timo casal... Voc\u00ea tamb\u00e9m acha, n\u00e9,",
+"?"
+]
+],
+[
+[
+"Subquest: Joy in Life completed!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: Alegria de Viver conclu\u00edda!",
+"Um pr\u00eamio pode ser recebido na se\u00e7\u00e3o",
+"Miss\u00e3o Secund\u00e1ria do menu Miss\u00f5es."
+]
+],
+[
+[
+"Subquest: A Mother's Worry completed!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: A Preocupa\u00e7\u00e3o de uma M\u00e3e conclu\u00edda!",
+"Um pr\u00eamio pode ser recebido na se\u00e7\u00e3o",
+"Miss\u00e3o Secund\u00e1ria do menu Miss\u00f5es."
+]
+],
+[
+[
+"@\udc81",
+"Subquest: A Mother's Worry started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: A Preocupa\u00e7\u00e3o de uma M\u00e3e iniciada!"
+]
+],
+[
+[
+"With a Wing Ring and 12 Spirit Gems, I can make an %C2%X-EXP",
+"Ring%C0% any time for you."
+],
+[
+"Com um Anel de Asa e 12 Gemas Espirituais, posso fazer um %C2%Anel",
+"X-EXP%C0% para voc\u00ea a qualquer hora."
+]
+],
+[
+[
+"In order to sail a ship, you need a mage with powerful",
+"magical powers%C0% to control the wind!"
+],
+[
+"Para navegar um navio, \u00e9 preciso um mago com poderosos",
+"poderes m\u00e1gicos%C0% para controlar o vento!"
+]
+],
+[
+[
+"West%C0% of town... The ones who abducted her were %C2%Zandark",
+"soldiers%C0%. I ask you be careful yourself..."
+],
+[
+"A oeste%C0% da cidade... Quem a sequestrou foram %C2%soldados",
+"de Zandark%C0%. Pe\u00e7o que tamb\u00e9m tomem cuidado..."
+]
+],
+[
+[
+"@\udc81",
+"Rings can now be synthesized to %C2%V\udc81 rank%C0%!"
+],
+[
+"@\udc81",
+"Agora \u00e9 poss\u00edvel sintetizar an\u00e9is at\u00e9 o %C2%rank V\udc81%C0%!"
+]
+],
+[
+[
+"Subquest: I Didn't Do It completed!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: N\u00e3o Fui Eu conclu\u00edda!",
+"Um pr\u00eamio pode ser recebido na se\u00e7\u00e3o",
+"Miss\u00e3o Secund\u00e1ria do menu Miss\u00f5es."
+]
+],
+[
+[
+"@\udc81",
+"Subquest: I Didn't Do It started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: N\u00e3o Fui Eu iniciada!"
+]
+],
+[
+[
+"Bring me some medicine to help with the pain! I need a %C2%Heal",
+"Gummy%C0%! No, %C2%20%C0%! They taste so good!"
+],
+[
+"Traga-me um rem\u00e9dio para a dor! Preciso de uma %C2%Goma",
+"Curativa%C0%! N\u00e3o, %C2%20%C0%! S\u00e3o t\u00e3o gostosas!"
+]
+],
+[
+[
+"Y\udc81 Three years later Y\u2015K"
+],
+[
+"Y\udc81 Tr\u00eas anos depois Y\u2015K"
+]
+],
+[
+[
+"Subquest: Letter completed!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: Carta conclu\u00edda!",
+"Um pr\u00eamio pode ser recebido na se\u00e7\u00e3o",
+"Miss\u00e3o Secund\u00e1ria do menu Miss\u00f5es."
+]
+],
+[
+[
+"@\udc81",
+"Subquest: Letter started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: Carta iniciada!"
+]
+],
+[
+[
+"What? With a Thief Ring and 8 Spirit Gems, I can make a",
+"Mugger Ring%C0% any time for you."
+],
+[
+"O qu\u00ea? Com um Anel de Ladr\u00e3o e 8 Gemas Espirituais, fa\u00e7o um",
+"Anel de Assaltante%C0% para voc\u00ea quando quiser."
+]
+],
+[
+[
+"But since this is for girls only, you'll have to step outside,",
+"."
+],
+[
+"Mas como isto \u00e9 s\u00f3 para garotas, voc\u00ea vai ter que sair,",
+"."
+]
+],
+[
+[
+"I think it's about time I showed those guys a littleF\udc81"
+],
+[
+"Acho que j\u00e1 est\u00e1 na hora de mostrar a esses caras um poucoF\udc81"
+]
+],
+[
+[
+"I'm %n4A% and this is %n0A%. AndF\udc81"
+],
+[
+"Eu sou %n4A% e este \u00e9 %n0A%. EF\udc81"
+]
+],
+[
+[
+"T\udc81 Several years later T\udc81"
+],
+[
+"T\udc81 V\u00e1rios anos depois T\udc81"
+]
+],
+[
+[
+"Y\udc81 Three years later Y\udc81"
+],
+[
+"Y\udc81 Tr\u00eas anos depois Y\udc81"
+]
+],
+[
+[
+"\uf8f3\udcfc\u0012\u0002\udcfc\u0011\u001a\udcf7",
+"\uf8f3",
+"\u0001",
+"\udcfc\u0013\u0017\u000b",
+"\u0002",
+"\uf8f3\udcfc\u0013\u001f\uf8f3\udcfc\u0014\u0002\udcfc\u0011\u001a\udcf7",
+"\uf8f3",
+"\u0001",
+"\udcfc\u0015\u0018\u0001\u0001\t",
+"\uf8f3\udcfc\u0015\u001f\uf8f3\udcfc\u0016&\udcfc\udc9f%\udcfc\uff62\udcfc\udc9f\u001f\uf8f3\udcfc\u0017\u001a\udcf7",
+"\uff86\u0001\u000f'\udcfc\u0019\u001a\udcfb",
+"\uff86\u0001\u0010'\udcfc\u0018\u001c\udcfc\u6dc5\u0001%\udcfc\uff62\udcfc\udc9f\u0018\uff86\u0001\u000f'\u0001\udcfc\u001c\uf8f3\udcfc\u0018\u0018\uff77\u0001\u0002",
+"\u0018\uff86\u0001\u000f'\u001a\udcf7",
+"\uff77\u0001\u000f'\udcfc\u001b\uf8f3\udcfc\u0019\u001a\udcf6",
+"\uff77\u0001\u000f'\udcfc\u001a\u0018\uff77\u0001\u0001",
+"\u001a\udcf7",
+"\uff74\u0001\u000f'\udcfc\u001c\uf8f3\udcfc\u001a\u001c\udcfc\u6fe4\u0001%\udcfc\uff62\udcfc\udc9f\uf8f3\udcfc\u001b\u0018\uff77\u0001",
+"\u001a\udcf6",
+"\uff74\u0001\u000f'\udcfc\u001a\uf8f3\udcfc\u001c\u001f\uf8f3\udcfc\u001d\"\udcfc!\u001f\uf8f3\udcfc\u001e\"\udcfc\"\u001f\uf8f3\udcfc\u001f\"\udcfc#\u001f\uf8f3\udcfc \"\udcfc$\u001f\uf8f3\udcfc!\udc81",
+"\u0001\u0001\u0001\u0080\uf8f3\udcfc\"\udc81",
+"\u0003\u0003\u0003\u0080\uf8f3\udcfc#\udc81",
+"\u0002\u0002\u0002\u0080\uf8f3\udcfc$\udc81",
+"\u0080\uf8f3\udcfc%\udc81",
+"\uff44\u0080\uf8f3\udcfc&\udc81",
+"\udc85\u0080\uf8f3\udcfc'\udc81",
+"\udc86\u0080\uf8f3\udcfc(\udc81",
+"\u301d\uf8f3\udcfc)\udc81",
+"\udc88\u0080\uf8f3\udcfc*\"\udcfc.\u001f\uf8f3\udcfc+\"\udcfc/\u001f\uf8f3\udcfc,\"\udcfc0\u001f\uf8f3\udcfc-\"\udcfc1\u001f\uf8f3\udcfc.\udc81",
+"\u0011\u0080\uf8f3\udcfc/\udc81",
+"\u0013\u0080\uf8f3\udcfc0\udc81",
+"\u0012\u0080\uf8f3\udcfc1\udc81",
+"\u0010\u0080\uf8f3\udcfc2\"\udcfc6\u001f\uf8f3\udcfc3\"\udcfc7\u001f\uf8f3\udcfc4\"\udcfc8\u001f\uf8f3\udcfc5\"\udcfc9\u001f\uf8f3\udcfc6\udc81",
+"!\u0080\uf8f3\udcfc7\udc81",
+"#\u0080\uf8f3\udcfc8\udc81",
+"\"\u0080\uf8f3\udcfc9\udc81",
+" \u0080\uf8f3\udcfc:\udcfc5\udcfc2\udcfc4\udcfc3\uf8f3\udcfc;\u0017\u0003",
+"c",
+"'\udcfc\udc9f\u0019\u0002",
+"\u0002",
+"\udcfc<\u0001\u9b72\uf8f3\udcfc<\u0019\u0003",
+"\u0001",
+"\u9c00\u0019\u0003",
+"\u0002",
+"\u9c00\u0019\u0003",
+"\udcfc?\u0019\u0003",
+"\u0006",
+"\udcfc=\u0002\udcfcL\u0001\udcfc>\uf8f3\udcfc=\u0002\udcfcM\uf8f3\udcfc>\u001a\udcf7",
+"\uf8f3",
+"\u9b72\u0001\u9c00\uf8f3\udcfc?\u001a\udcf9",
+"\uff9f\u0001\u0001",
+"\u9adc\u0015\udcfc\udc9f",
+"\u0001\u9b75\uf8f3\u9adc\u0015\udcfc\udc9f\u0001",
+"\uf8f3\u9b75\u0016\udcfcN\udcfc\udc9f\u0017\u0001",
+"\u001f\uf8f3\u9b72'\udcfc\udc9f\u001c\udcfc\uf8f0\uff9f\u0001$\udcfc\udc9f\u0001",
+"\udcfc\uf8f0\u001a\udcf9",
+"\uff9f\u0001\u0001",
+"\u9b8f\u0002\ufa2d\u0001\u9bb1\uf8f3\u9b8f\u0002\u9e19\uf8f3\u9bb1\u0015\udcfc\udc9f\n\u001a&\udcfc\udc9f%\udcfc\uff62\udcfc\udc9f\u0019!",
+"\u9bbb\uf8f3\u9bbb\u001f\uf8f3\u9c00\u0019\u0003",
+"\u0006",
+"\u9d70\u0015\udcfc\udc9f",
+"\u0001\u9d6b\uf8f3\u9d70\u0015\udcfc\udc9f\u0001",
+"\uf8f3\u9d6b\u0016\u9ed1\udcfc\udc9f\u0017\u0001",
+"\u001f\uf8f3\ufa2d%N999%%l3000000% ",
+"Found  %C7%%C2%%b0%%C0%!"
+],
+[
+"\uf8f3\udcfc\u0012\u0002\udcfc\u0011\u001a\udcf7",
+"\uf8f3",
+"\u0001",
+"\udcfc\u0013\u0017\u000b",
+"\u0002",
+"\uf8f3\udcfc\u0013\u001f\uf8f3\udcfc\u0014\u0002\udcfc\u0011\u001a\udcf7",
+"\uf8f3",
+"\u0001",
+"\udcfc\u0015\u0018\u0001\u0001\t",
+"\uf8f3\udcfc\u0015\u001f\uf8f3\udcfc\u0016&\udcfc\udc9f%\udcfc\uff62\udcfc\udc9f\u001f\uf8f3\udcfc\u0017\u001a\udcf7",
+"\uff86\u0001\u000f'\udcfc\u0019\u001a\udcfb",
+"\uff86\u0001\u0010'\udcfc\u0018\u001c\udcfc\u6dc5\u0001%\udcfc\uff62\udcfc\udc9f\u0018\uff86\u0001\u000f'\u0001\udcfc\u001c\uf8f3\udcfc\u0018\u0018\uff77\u0001\u0002",
+"\u0018\uff86\u0001\u000f'\u001a\udcf7",
+"\uff77\u0001\u000f'\udcfc\u001b\uf8f3\udcfc\u0019\u001a\udcf6",
+"\uff77\u0001\u000f'\udcfc\u001a\u0018\uff77\u0001\u0001",
+"\u001a\udcf7",
+"\uff74\u0001\u000f'\udcfc\u001c\uf8f3\udcfc\u001a\u001c\udcfc\u6fe4\u0001%\udcfc\uff62\udcfc\udc9f\uf8f3\udcfc\u001b\u0018\uff77\u0001",
+"\u001a\udcf6",
+"\uff74\u0001\u000f'\udcfc\u001a\uf8f3\udcfc\u001c\u001f\uf8f3\udcfc\u001d\"\udcfc!\u001f\uf8f3\udcfc\u001e\"\udcfc\"\u001f\uf8f3\udcfc\u001f\"\udcfc#\u001f\uf8f3\udcfc \"\udcfc$\u001f\uf8f3\udcfc!\udc81",
+"\u0001\u0001\u0001\u0080\uf8f3\udcfc\"\udc81",
+"\u0003\u0003\u0003\u0080\uf8f3\udcfc#\udc81",
+"\u0002\u0002\u0002\u0080\uf8f3\udcfc$\udc81",
+"\u0080\uf8f3\udcfc%\udc81",
+"\uff44\u0080\uf8f3\udcfc&\udc81",
+"\udc85\u0080\uf8f3\udcfc'\udc81",
+"\udc86\u0080\uf8f3\udcfc(\udc81",
+"\u301d\uf8f3\udcfc)\udc81",
+"\udc88\u0080\uf8f3\udcfc*\"\udcfc.\u001f\uf8f3\udcfc+\"\udcfc/\u001f\uf8f3\udcfc,\"\udcfc0\u001f\uf8f3\udcfc-\"\udcfc1\u001f\uf8f3\udcfc.\udc81",
+"\u0011\u0080\uf8f3\udcfc/\udc81",
+"\u0013\u0080\uf8f3\udcfc0\udc81",
+"\u0012\u0080\uf8f3\udcfc1\udc81",
+"\u0010\u0080\uf8f3\udcfc2\"\udcfc6\u001f\uf8f3\udcfc3\"\udcfc7\u001f\uf8f3\udcfc4\"\udcfc8\u001f\uf8f3\udcfc5\"\udcfc9\u001f\uf8f3\udcfc6\udc81",
+"!\u0080\uf8f3\udcfc7\udc81",
+"#\u0080\uf8f3\udcfc8\udc81",
+"\"\u0080\uf8f3\udcfc9\udc81",
+" \u0080\uf8f3\udcfc:\udcfc5\udcfc2\udcfc4\udcfc3\uf8f3\udcfc;\u0017\u0003",
+"c",
+"'\udcfc\udc9f\u0019\u0002",
+"\u0002",
+"\udcfc<\u0001\u9b72\uf8f3\udcfc<\u0019\u0003",
+"\u0001",
+"\u9c00\u0019\u0003",
+"\u0002",
+"\u9c00\u0019\u0003",
+"\udcfc?\u0019\u0003",
+"\u0006",
+"\udcfc=\u0002\udcfcL\u0001\udcfc>\uf8f3\udcfc=\u0002\udcfcM\uf8f3\udcfc>\u001a\udcf7",
+"\uf8f3",
+"\u9b72\u0001\u9c00\uf8f3\udcfc?\u001a\udcf9",
+"\uff9f\u0001\u0001",
+"\u9adc\u0015\udcfc\udc9f",
+"\u0001\u9b75\uf8f3\u9adc\u0015\udcfc\udc9f\u0001",
+"\uf8f3\u9b75\u0016\udcfcN\udcfc\udc9f\u0017\u0001",
+"\u001f\uf8f3\u9b72'\udcfc\udc9f\u001c\udcfc\uf8f0\uff9f\u0001$\udcfc\udc9f\u0001",
+"\udcfc\uf8f0\u001a\udcf9",
+"\uff9f\u0001\u0001",
+"\u9b8f\u0002\ufa2d\u0001\u9bb1\uf8f3\u9b8f\u0002\u9e19\uf8f3\u9bb1\u0015\udcfc\udc9f\n\u001a&\udcfc\udc9f%\udcfc\uff62\udcfc\udc9f\u0019!",
+"\u9bbb\uf8f3\u9bbb\u001f\uf8f3\u9c00\u0019\u0003",
+"\u0006",
+"\u9d70\u0015\udcfc\udc9f",
+"\u0001\u9d6b\uf8f3\u9d70\u0015\udcfc\udc9f\u0001",
+"\uf8f3\u9d6b\u0016\u9ed1\udcfc\udc9f\u0017\u0001",
+"\u001f\uf8f3\ufa2d%N999%%l3000000% ",
+"Encontrou  %C7%%C2%%b0%%C0%!"
+]
+],
+[
+[
+"\uf8f3\u9e19%N999%%l3000000% ",
+"Found  %C7%%C2%%b0%%C0% x%W0%!"
+],
+[
+"\uf8f3\u9e19%N999%%l3000000% ",
+"Encontrou  %C7%%C2%%b0%%C0% x%W0%!"
+]
+],
+[
+[
+"\uf8f3\u9ed1\\0",
+"Found %C7%%C2%%b0%%C0% x%W0%,",
+"but cannot carry any more,",
+"so returned contents to chest!"
+],
+[
+"\uf8f3\u9ed1\\0",
+"Encontrou %C7%%C2%%b0%%C0% x%W0%,",
+"mas n\u00e3o pode carregar mais,",
+"ent\u00e3o devolveu o conte\u00fado ao ba\u00fa!"
+]
+],
+[
+[
+"Found %C7%%C2%%b0%%C0%, but cannot",
+"carry any more, so returned contents to chest!"
+],
+[
+"Encontrou %C7%%C2%%b0%%C0%, mas n\u00e3o pode",
+"carregar mais, ent\u00e3o devolveu o conte\u00fado ao ba\u00fa!"
+]
+],
+[
+[
+"\uf8f3\udcfcL%N999%%l3000000%%c(MSG_UP=1)%%G0%%C0%Found %C7%%C2%%b0%%C0% x%W0%,",
+"but cannot carry them all.",
+"Discard extra ones?"
+],
+[
+"\udcff\udcfcL%N999%%l3000000%%c(MSG_UP=1)%%G0%%C0%Encontrou %C7%%C2%%b0%%C0% x%W0%,",
+"mas n\u00e3o d\u00e1 para carregar todos.",
+"Descartar os extras?"
+]
+],
+[
+[
+"\\P Discard \\P",
+"\\P Return to Treasure Chest \\P\\S1\\U",
+"\uf8f3\udcfcM%N999%%l3000000%%c(MSG_UP=1)%%G0% ",
+"Found %C7%%C2%%b0%%C0%, but cannot",
+"carry any more. Discard it?"
+],
+[
+"\\P Descartar \\P",
+"\\P Devolver ao Ba\u00fa \\P\\S1\\U",
+"\uf8f3\udcfcM%N999%%l3000000%%c(MSG_UP=1)%%G0% ",
+"Encontrou %C7%%C2%%b0%%C0%, mas n\u00e3o pode",
+"carregar mais. Descartar?"
+]
+],
+[
+[
+"\\P Discard \\P",
+"\\P Return to Treasure Chest \\P\\S1\\U",
+"\uf8f3\udcfcN\\0",
+"Found %C7%%C2%%b0%%C0%, but cannot",
+"carry any more, so returned contents to chest!"
+],
+[
+"\\P Descartar \\P",
+"\\P Devolver ao Ba\u00fa \\P\\S1\\U",
+"\uf8f3\udcfcN\\0",
+"Encontrou %C7%%C2%%b0%%C0%, mas n\u00e3o pode",
+"carregar mais, ent\u00e3o devolveu o conte\u00fado ao ba\u00fa!"
+]
+],
+[
+[
+"Found %C7%%C2%%b0%%C0% x%W0%, but cannot",
+"carry any more, so returned contents to chest!"
+],
+[
+"Encontrou %C7%%C2%%b0%%C0% x%W0%, mas n\u00e3o pode",
+"carregar mais, ent\u00e3o devolveu o conte\u00fado ao ba\u00fa!"
+]
+],
+[
+[
+"\uf8f3\udcfcO!c",
+"\u001f\uf8f3\udcfcP!b",
+"\u001f\uf8f3\udcfcQ\uf8f3\udcfcR\uf8f3\udcfcS\uf8f3\udcfcT\uf8f3\udcfcU\u001f\uf8f3\udcfcV-\uff73\u0015\u001f\uf8f3\udcfcW&\udcfc\udc9f%\udcfc\uff62\udcfc\udc9f\u0015\udcfc\udc9f\u0005",
+"\u001c\udcfc\uf8f0\udc94\u0001\u000f\udcfc\u6ecc\uf8f0#\udcfc\u0006\udcfc\udc9f\u001f\uf8f3\udcfcX\u0018\uff90\u0001\u0001",
+"\u0015\udcfc\u6c8d#\u0015\udcfc\uf8f0d",
+"\u0001\udcfcZ\uf8f3\udcfcY\u0018\uff90\u0001",
+"\u0015\udcfc\udc9f(#\u0015\udcfc\uf8f0",
+"\uf8f3\udcfcZ\u0018\uff80\u0001",
+"\u001a\udcf7",
+"\uff8e\u0001",
+"\udcfc[\u0015\udcfc\udc9f<#\uf8f3\udcfc[\u0019\u001a",
+"\u0001",
+"\udcfc\\\u0016\udcfc_\udcfc\udc9f\u001a\udcf7",
+"\uf8f3",
+"\u0003",
+"\udcfc^\u001a\udcf7",
+"\uf8f3",
+"\u0002",
+"\udcfc]\u001a\udcf7",
+"\uf8f3",
+"\u0001",
+"\udcfc\\\u0018\uff8e\u0001\u0001",
+"\u001f\uf8f3\udcfc\\\u0018\uff80\u0001\u0001",
+"\u0018\uff8e\u0001\u0002",
+"\u001f\uf8f3\udcfc]\u0018\uff80\u0001\u0002",
+"\u0018\uff8e\u0001\u0002",
+"\u001f\uf8f3\udcfc^\u0018\uff8e\u0001",
+"\u0015\udcfc\u6ab3#\u000f\udcfc\u6ecc\uf8f0\u0016\udcfc_\udcfc\udc9f\u001f\uf8f3\udcfc_\\9000",
+"Welcome to the item shop! Now take a look around and buy",
+"whatever you need!"
+],
+[
+"\uf8f3\udcfcO!c",
+"\u001f\uf8f3\udcfcP!b",
+"\u001f\udcff\udcfcQ\udcff\udcfcR\udcff\udcfcS\udcff\udcfcT\udcff\udcfcU\u001f\udcff\udcfcV-\udcb3\u0015\u001f\udcff\udcfcW&\udcfc\udc9f%\udcfc\udca2\udcfc\udc9f\u0015\udcfc\udc9f\u0005",
+"\u001c\udcfc\uf8f0\udc94\u0001\u000f\udcfc\u6ecc\uf8f0#\udcfc\u0006\udcfc\udc9f\u001f\uf8f3\udcfcX\u0018\uff90\u0001\u0001",
+"\u0015\udcfc\u6c8d#\u0015\udcfc\uf8f0d",
+"\u0001\udcfcZ\uf8f3\udcfcY\u0018\uff90\u0001",
+"\u0015\udcfc\udc9f(#\u0015\udcfc\uf8f0",
+"\uf8f3\udcfcZ\u0018\uff80\u0001",
+"\u001a\udcf7",
+"\uff8e\u0001",
+"\udcfc[\u0015\udcfc\udc9f<#\uf8f3\udcfc[\u0019\u001a",
+"\u0001",
+"\udcfc\\\u0016\udcfc_\udcfc\udc9f\u001a\udcf7",
+"\uf8f3",
+"\u0003",
+"\udcfc^\u001a\udcf7",
+"\uf8f3",
+"\u0002",
+"\udcfc]\u001a\udcf7",
+"\uf8f3",
+"\u0001",
+"\udcfc\\\u0018\uff8e\u0001\u0001",
+"\u001f\uf8f3\udcfc\\\u0018\uff80\u0001\u0001",
+"\u0018\uff8e\u0001\u0002",
+"\u001f\uf8f3\udcfc]\u0018\uff80\u0001\u0002",
+"\u0018\uff8e\u0001\u0002",
+"\u001f\uf8f3\udcfc^\u0018\uff8e\u0001",
+"\u0015\udcfc\u6ab3#\u000f\udcfc\u6ecc\uf8f0\u0016\udcfc_\udcfc\udc9f\u001f\uf8f3\udcfc_\\9000",
+"Bem-vindo \u00e0 loja de itens! D\u00ea uma olhada por a\u00ed e",
+"compre o que precisar!"
+]
+],
+[
+[
+"\uf8f3\udcfcc\u0018\uff90\u0001\u0003",
+"\u0015\udcfc\udc9f(#\u0015\udcfc\uf8f0",
+"\u0001\udcfce\uf8f3\udcfcd\u0018\uff90\u0001\u0002",
+"\u0015\udcfc\udc9f)#\u0015\udcfc\uf8f0\u0001",
+"\uf8f3\udcfce\u001a\udcf7",
+"\uff8e\u0001",
+"\udcfcg\u001a\udcf7",
+"\uff90\u0001\u0002",
+"\udcfcf\u0015\udcfc\udc9f<#\u0001\udcfcg\uf8f3\udcfcf\u0015\udcfc\udc9f=#\uf8f3\udcfcg\u0016\udcfck\udcfc\udc9f\u0018\uff80\u0001",
+"\u001a\udcf7",
+"\uf8f3",
+"\u0003",
+"\udcfcj\u001a\udcf7",
+"\uf8f3",
+"\u0001",
+"\udcfci\u001a\udcf7",
+"\uff90\u0001\u0002",
+"\udcfch\u0018\uff8e\u0001\u0007",
+"\u001f\uf8f3\udcfch\u0018\uff8e\u0001\u0003",
+"\u001f\uf8f3\udcfci\u001a\udcf7",
+"\uff90\u0001\u0003",
+"\udcfcj\u0018\uff8e\u0001\u0005",
+"\u001f\uf8f3\udcfcj\u0018\uff8e\u0001",
+"\u0015\udcfc\u6ab3#\u000f\udcfc\u6ecc\uf8f0\u0016\udcfck\udcfc\udc9f\u001f\uf8f3\udcfck\\9000",
+"Why hello! You can exchange your Guild Coins for all kinds of",
+"items here at the exchange!%J('0012ba)%"
+],
+[
+"\uf8f3\udcfcc\u0018\uff90\u0001\u0003",
+"\u0015\udcfc\udc9f(#\u0015\udcfc\uf8f0",
+"\u0001\udcfce\uf8f3\udcfcd\u0018\uff90\u0001\u0002",
+"\u0015\udcfc\udc9f)#\u0015\udcfc\uf8f0\u0001",
+"\uf8f3\udcfce\u001a\udcf7",
+"\uff8e\u0001",
+"\udcfcg\u001a\udcf7",
+"\uff90\u0001\u0002",
+"\udcfcf\u0015\udcfc\udc9f<#\u0001\udcfcg\uf8f3\udcfcf\u0015\udcfc\udc9f=#\uf8f3\udcfcg\u0016\udcfck\udcfc\udc9f\u0018\uff80\u0001",
+"\u001a\udcf7",
+"\uf8f3",
+"\u0003",
+"\udcfcj\u001a\udcf7",
+"\uf8f3",
+"\u0001",
+"\udcfci\u001a\udcf7",
+"\uff90\u0001\u0002",
+"\udcfch\u0018\uff8e\u0001\u0007",
+"\u001f\uf8f3\udcfch\u0018\uff8e\u0001\u0003",
+"\u001f\uf8f3\udcfci\u001a\udcf7",
+"\uff90\u0001\u0003",
+"\udcfcj\u0018\uff8e\u0001\u0005",
+"\u001f\uf8f3\udcfcj\u0018\uff8e\u0001",
+"\u0015\udcfc\u6ab3#\u000f\udcfc\u6ecc\uf8f0\u0016\udcfck\udcfc\udc9f\u001f\uf8f3\udcfck\\9000",
+"Ol\u00e1! Aqui na troca voc\u00ea pode trocar suas Moedas da",
+"Guilda por todo tipo de item!%J('0012ba)%"
+]
+],
+[
+[
+"\\P@\u2015P\\M1\\U",
+"\uf8f3\udcfcl\uf8f3\udcfcm\u0018\udcf8",
+"\u0015\udcfc\udc9f(#\u0001\udcfco\uf8f3\udcfcn\u0018\uff8e\u0001",
+"\u0015\udcfc\udc9f+#\u0016\udcfc\uff6a\udcfc\udc9f\u001f\uf8f3\udcfco\u001a\udcf7",
+"\uff8e\u0001",
+"\udcfcp\u0015\udcfc\udc9f2#\uf8f3\udcfcp\u0016\udcfc\uff6a\udcfc\udc9f\u001a\udcf6",
+"\udcf8",
+"\udcfcs\u0018\uff80\u0001",
+"\u0019\uff6f",
+"\udcfcq\u0017\uff6f",
+"\u001f\uf8f3\udcfcq\u001a\udcf7",
+"\uf8f3",
+"\u0001",
+"\udcfcr\u0018\uff8e\u0001\u0006",
+"\u001f\uf8f3\udcfcr\u0018\uff8e\u0001",
+"\u0015\udcfc\udc9f*#\u0016\udcfc\uff6a\udcfc\udc9f\uf8f3\udcfcs\u001a\udcf6",
+"\udcf8",
+"\u0004",
+"\udcfcv\u001c\udcfc\udc9f)",
+"\u000f\udcfc\udc9f%\u0004\u0019\udcfc\udc9f\u0001",
+"\udcfct\u0017\udcfc\udc9f\u0003",
+"\u0001\udcfcu\uf8f3\udcfct\u0017\udcfc\udc9f",
+"\uf8f3\udcfcu\u0015\udcfc\udc9f\u001dN\u0016\udcfc\uff6a\udcfc\udc9f\uf8f3\udcfcv\u001f\uf8f3\udcfcw\u0017\uff71",
+"\u0001",
+"\u0017\u0019",
+"\u0001",
+"\u0016\udcfc\u0080",
+"\"\udcfc&\u0017%",
+"\u0001",
+"\u00176",
+"\u0017\uff71",
+"\u001f\uf8f3\udcfcx\u0017\uff71",
+"\u0001",
+"\u0017\u0019",
+"\u0001",
+"\u00176",
+"\u0001",
+"\u0017%",
+"\"\udcfc&\u0016\udcfc\u0080\u0001",
+"\u0017\uff71",
+"\u001f\uf8f3\udcfcy\u0017\uff71",
+"\u0001",
+"\u0017\u0019",
+"\u0001",
+"\u0016\udcfc\u0080",
+"\"\udcfc'\u0017%",
+"\u0002",
+"\u0017:",
+"\u0017\uff71",
+"\u001f\uf8f3\udcfcz\u0017\uff71",
+"\u0001",
+"\u0017\u0019",
+"\u0001",
+"\u0017:",
+"\u0001",
+"\u0017%",
+"\u0016\udcfc\u0080\u0001",
+"\u0017\uff71",
+"\u001f\uf8f3\udcfc{\u0017\uff71",
+"\u0001",
+"\u0017\u0019",
+"\u0001",
+"\"\udcfc)\u0017%",
+"\u0002",
+"\u0017\uff71",
+"\u001f\uf8f3\udcfc|\"\udcfc(\u0017%",
+"\u0005",
+"\u0017A",
+"\u001f\uf8f3\udcfc}\u0017A",
+"\u0001",
+"\u0017%",
+"\u001f\uf8f3\udcfc~\u001a\udcf6",
+"\udc93\u0001\u0003",
+"\udcfc\u007f\"\udcfc&\u0016\udcfc\u0080",
+"\u0017%",
+"\u0003",
+"\u0017A",
+"\u001f\uf8f3\udcfc\u007f\u0016\udcfc\u0080\u0002",
+"\u001f\uf8f3\udcfc\u0080\\0"
+],
+[
+"\\P@\u2015P\\M1\\U",
+"\uf8f3\udcfcl\uf8f3\udcfcm\u0018\udcf8",
+"\u0015\udcfc\udc9f(#\u0001\udcfco\uf8f3\udcfcn\u0018\uff8e\u0001",
+"\u0015\udcfc\udc9f+#\u0016\udcfc\uff6a\udcfc\udc9f\u001f\uf8f3\udcfco\u001a\udcf7",
+"\uff8e\u0001",
+"\udcfcp\u0015\udcfc\udc9f2#\uf8f3\udcfcp\u0016\udcfc\uff6a\udcfc\udc9f\u001a\udcf6",
+"\udcf8",
+"\udcfcs\u0018\uff80\u0001",
+"\u0019\uff6f",
+"\udcfcq\u0017\uff6f",
+"\u001f\uf8f3\udcfcq\u001a\udcf7",
+"\uf8f3",
+"\u0001",
+"\udcfcr\u0018\uff8e\u0001\u0006",
+"\u001f\uf8f3\udcfcr\u0018\uff8e\u0001",
+"\u0015\udcfc\udc9f*#\u0016\udcfc\uff6a\udcfc\udc9f\uf8f3\udcfcs\u001a\udcf6",
+"\udcf8",
+"\u0004",
+"\udcfcv\u001c\udcfc\udc9f)",
+"\u000f\udcfc\udc9f%\u0004\u0019\udcfc\udc9f\u0001",
+"\udcfct\u0017\udcfc\udc9f\u0003",
+"\u0001\udcfcu\uf8f3\udcfct\u0017\udcfc\udc9f",
+"\udcff\udcfcu\u0015\udcfc\udc9f\u001dN\u0016\udcfc\udcaa\udcfc\udc9f\udcff\udcfcv\u001f\udcff\udcfcw\u0017\udcb1",
+"\u0001",
+"\u0017\u0019",
+"\u0001",
+"\u0016\udcfc\u0080",
+"\"\udcfc&\u0017%",
+"\u0001",
+"\u00176",
+"\u0017\uff71",
+"\u001f\uf8f3\udcfcx\u0017\uff71",
+"\u0001",
+"\u0017\u0019",
+"\u0001",
+"\u00176",
+"\u0001",
+"\u0017%",
+"\"\udcfc&\u0016\udcfc\u0080\u0001",
+"\u0017\uff71",
+"\u001f\uf8f3\udcfcy\u0017\uff71",
+"\u0001",
+"\u0017\u0019",
+"\u0001",
+"\u0016\udcfc\u0080",
+"\"\udcfc'\u0017%",
+"\u0002",
+"\u0017:",
+"\u0017\uff71",
+"\u001f\uf8f3\udcfcz\u0017\uff71",
+"\u0001",
+"\u0017\u0019",
+"\u0001",
+"\u0017:",
+"\u0001",
+"\u0017%",
+"\u0016\udcfc\u0080\u0001",
+"\u0017\uff71",
+"\u001f\uf8f3\udcfc{\u0017\uff71",
+"\u0001",
+"\u0017\u0019",
+"\u0001",
+"\"\udcfc)\u0017%",
+"\u0002",
+"\u0017\uff71",
+"\u001f\uf8f3\udcfc|\"\udcfc(\u0017%",
+"\u0005",
+"\u0017A",
+"\u001f\uf8f3\udcfc}\u0017A",
+"\u0001",
+"\u0017%",
+"\u001f\uf8f3\udcfc~\u001a\udcf6",
+"\udc93\u0001\u0003",
+"\udcfc\u007f\"\udcfc&\u0016\udcfc\u0080",
+"\u0017%",
+"\u0003",
+"\u0017A",
+"\u001f\uf8f3\udcfc\u007f\u0016\udcfc\u0080\u0002",
+"\u001f\uf8f3\udcfc\u0080\\0"
+]
+],
+[
+[
+"\uf8f3\udcfc\udc81\u0015\udcfc\udc9f\u001e",
+"\u0001\udcfc\udc83\uf8f3\udcfc\udc82\u0015\udcfc\udc9f\u0014",
+"\uf8f3\udcfc\udc83\u001a\udcf6",
+"\uff69\u0001",
+"\udcfc\udc84\u0016\udcfc\udc86\udcfc\udc9f\u001f\uf8f3\udcfc\udc84\u001a\udcf7",
+"\uff69\u0001\u0001",
+"\udcfc\udc85\u0018\uff69\u0001",
+"\uf8f3\udcfc\udc85\u0016\udcfc\udc86\n",
+"\u001f\uf8f3\udcfc\udc86\\10",
+"Unable to use!"
+],
+[
+"\uf8f3\udcfc\udc81\u0015\udcfc\udc9f\u001e",
+"\u0001\udcfc\udc83\uf8f3\udcfc\udc82\u0015\udcfc\udc9f\u0014",
+"\uf8f3\udcfc\udc83\u001a\udcf6",
+"\uff69\u0001",
+"\udcfc\udc84\u0016\udcfc\udc86\udcfc\udc9f\u001f\uf8f3\udcfc\udc84\u001a\udcf7",
+"\uff69\u0001\u0001",
+"\udcfc\udc85\u0018\uff69\u0001",
+"\uf8f3\udcfc\udc85\u0016\udcfc\udc86\n",
+"\u001f\uf8f3\udcfc\udc86\\10",
+"N\u00e3o pode ser usado!"
+]
+],
+[
+[
+"\uf8f3\udcfc\udc87\u001c\udcfc\u6ed3\u0004\u0016\udcfc\u852d\udc9f\u001f\uf8f3\udcfc\udc88\\10",
+"There are no treasure chests here to be found..."
+],
+[
+"\uf8f3\udcfc\udc87\u001c\udcfc\u6ed3\u0004\u0016\udcfc\u852d\udc9f\u001f\uf8f3\udcfc\udc88\\10",
+"N\u00e3o h\u00e1 ba\u00fas do tesouro por aqui..."
+]
+],
+[
+[
+"\uf8f3\udcfc\udc8e\u001a\udcf6",
+"\udce8\u0004",
+"\udcfc\udc8f\u0016\udcfc\udc90\n",
+"\u001f\uf8f3\udcfc\udc8f\u0018\udce8\u0004",
+"\u0016\udcfc\udc90\u000b",
+"\u001f\uf8f3\udcfc\u753310",
+"The presence of monsters decreased!"
+],
+[
+"\uf8f3\udcfc\udc8e\u001a\udcf6",
+"\udce8\u0004",
+"\udcfc\udc8f\u0016\udcfc\udc90\n",
+"\u001f\uf8f3\udcfc\udc8f\u0018\udce8\u0004",
+"\u0016\udcfc\udc90\u000b",
+"\u001f\uf8f3\udcfc\u753310",
+"A presen\u00e7a de monstros diminuiu!"
+]
+],
+[
+[
+"\uf8f3\udcfc\udc91\u001a\udcf6",
+"\udce8\u0004",
+"\udcfc\udc92\u0016\udcfc\udc93\n",
+"\u001f\uf8f3\udcfc\udc92\u0018\udce8\u0004",
+"\u0016\udcfc\udc93\u000b",
+"\u001f\uf8f3\udcfc\u8cbc10",
+"The presence of monsters increased!"
+],
+[
+"\uf8f3\udcfc\udc91\u001a\udcf6",
+"\udce8\u0004",
+"\udcfc\udc92\u0016\udcfc\udc93\n",
+"\u001f\uf8f3\udcfc\udc92\u0018\udce8\u0004",
+"\u0016\udcfc\udc93\u000b",
+"\u001f\uf8f3\udcfc\u8cbc10",
+"A presen\u00e7a de monstros aumentou!"
+]
+],
+[
+[
+"\uf8f3\udcfc\udc94\u0002\udcfc\udc95\u001f\uf8f3\udcfc\udc95 ",
+"Secret passages have become visible!"
+],
+[
+"\uf8f3\udcfc\udc94\u0002\udcfc\udc95\u001f\uf8f3\udcfc\udc95 ",
+"Passagens secretas ficaram vis\u00edveis!"
+]
+],
+[
+[
+"@\udc81",
+"\uf8f3\udcfc\udc96\u0002\udcfc\udc97\u001f\uf8f3\udcfc\udc97 ",
+"The %w2%'s effects have worn off!"
+],
+[
+"@\udc81",
+"\uf8f3\udcfc\udc96\u0002\udcfc\udc97\u001f\uf8f3\udcfc\udc97 ",
+"Os efeitos de %w2% se dissiparam!"
+]
+],
+[
+[
+"Wait! I ain't picking on anybody... And what's this R\u2225ll over",
+"againR\udc81 nonsense?!"
+],
+[
+"Espera! N\u00e3o implico com ningu\u00e9m... E que R\udc81atudo",
+"de novoR\udc81 \u00e9 essa besteira?!"
+]
+],
+[
+[
+"'s parents are supposedly in %C2%Zandark Tower%C0% on ",
+"Zandark Continent%C0%."
+],
+[
+"  parece ter os pais na %C2%Torre de Zandark%C0% no ",
+"Continente de Zandark%C0%."
+]
+],
+[
+[
+"I believe there was a tower by that name %C2%north%C0% of %C2%Adiva",
+"Castle%C0%..."
+],
+[
+"Acho que havia uma torre com esse nome ao %C2%norte%C0% do %C2%Castelo",
+"de Adiva%C0%..."
+]
+],
+[
+[
+"Yes. I want you to look for any clues about what happened to",
+"Cabala%C0% and another man named %C2%Wendel%C0% who went missing",
+"there eight years ago."
+],
+[
+"Sim. Quero que procurem pistas sobre o que aconteceu com",
+"Cabala%C0% e outro homem chamado %C2%Wendel%C0%, que sumiram",
+"l\u00e1 h\u00e1 oito anos."
+]
+],
+[
+[
+"@\udc81",
+"Handed over %C7%Starch%C0% x5!"
+],
+[
+"@\udc81",
+"Entregou %C7%Amido%C0% x5!"
+]
+],
+[
+[
+"Subquest: Home Improvement completed!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: Reformas Dom\u00e9sticas conclu\u00edda!",
+"Voc\u00ea pode receber uma recompensa na se\u00e7\u00e3o",
+"de Miss\u00e3o Secund\u00e1ria do menu Miss\u00e3o."
+]
+],
+[
+[
+"A-Alright, then. I'll leave the rest to you! %C0%(I wonder if I made a",
+"mistake asking him...)"
+],
+[
+"E-Est\u00e1 bem, ent\u00e3o. Deixo o resto com voc\u00ea! %C0%(Ser\u00e1 que errei em",
+"pedir isso a ele...)"
+]
+],
+[
+[
+"@\udc81",
+"Subquest: Home Improvement started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: Reformas Dom\u00e9sticas iniciada!"
+]
+],
+[
+[
+"Were you able to get 5 of those %C2%Starch%C0%, %C2%Sharp Fangs%C0%, and",
+"Dragon Spines%C0% for me...?"
+],
+[
+"Conseguiu 5 %C2%Amidos%C0%, %C2%Presas Afiadas%C0% e",
+"Espinhas de Drag\u00e3o%C0% para mim...?"
+]
+],
+[
+[
+"Subquest: Beautiful Townscape completed!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: Bela Paisagem Urbana conclu\u00edda!",
+"Voc\u00ea pode receber uma recompensa na se\u00e7\u00e3o",
+"de Miss\u00e3o Secund\u00e1ria do menu Miss\u00e3o."
+]
+],
+[
+[
+"They're %C2%Sharp Fangs%C0% from shark-class monsters and %C2%Dragon",
+"Spines%C0% from bone dragon-class monsters..."
+],
+[
+"S\u00e3o %C2%Presas Afiadas%C0% de monstros tipo tubar\u00e3o e %C2%Espinhas",
+"de Drag\u00e3o%C0% de monstros tipo drag\u00e3o de ossos..."
+]
+],
+[
+[
+"@\udc81",
+"Subquest: Beautiful Townscape started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: Bela Paisagem Urbana iniciada!"
+]
+],
+[
+[
+"@\udc81",
+"Subquest: Lost Children started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: Crian\u00e7as Perdidas iniciada!"
+]
+],
+[
+[
+"Subquest: Lost Children completed!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: Crian\u00e7as Perdidas conclu\u00edda!",
+"Voc\u00ea pode receber uma recompensa na se\u00e7\u00e3o",
+"de Miss\u00e3o Secund\u00e1ria do menu Miss\u00e3o."
+]
+],
+[
+[
+"@\udc81",
+"Subquest: Nondian Rampage started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: Rebeli\u00e3o Nondiana iniciada!"
+]
+],
+[
+[
+"It would appear he has persuaded those in the village to let",
+" live there with them."
+],
+[
+"Parece que ele convenceu o pessoal da vila a deixar",
+" morar l\u00e1 com eles."
+]
+],
+[
+[
+"Subquest: Nondian Rampage completed!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: Rebeli\u00e3o Nondiana conclu\u00edda!",
+"Voc\u00ea pode receber uma recompensa na se\u00e7\u00e3o",
+"de Miss\u00e3o Secund\u00e1ria do menu Miss\u00e3o."
+]
+],
+[
+[
+"Due to the Shadow Spirit having left the party, all",
+"party members' spirit equipment has been removed!"
+],
+[
+"Como o Esp\u00edrito da Sombra deixou o grupo, todo o",
+"equipamento espiritual do grupo foi removido!"
+]
+],
+[
+[
+"Subquest: I Want Some Zircon cleared!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: Quero Alguns Zirc\u00f5es conclu\u00edda!",
+"Voc\u00ea pode receber uma recompensa na se\u00e7\u00e3o",
+"de Miss\u00e3o Secund\u00e1ria do menu Miss\u00e3o."
+]
+],
+[
+[
+"@\udc81",
+"Subquest: I Want Some Zircon started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: Quero Alguns Zirc\u00f5es iniciada!"
+]
+],
+[
+[
+"Subquest: Save My Little Brother completed!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: Salve Meu Irm\u00e3ozinho conclu\u00edda!",
+"Voc\u00ea pode receber uma recompensa na se\u00e7\u00e3o",
+"de Miss\u00e3o Secund\u00e1ria do menu Miss\u00e3o."
+]
+],
+[
+[
+"@\udc81",
+"Subquest: Save My Little Brother started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: Salve Meu Irm\u00e3ozinho iniciada!"
+]
+],
+[
+[
+"Subquest: I Want Some Rare Gemstones completed!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: Quero Algumas Gemas Raras conclu\u00edda!",
+"Voc\u00ea pode receber uma recompensa na se\u00e7\u00e3o",
+"de Miss\u00e3o Secund\u00e1ria do menu Miss\u00e3o."
+]
+],
+[
+[
+"@\udc81",
+"Subquest: I Want Some Rare Gemstones started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: Quero Algumas Gemas Raras iniciada!"
+]
+],
+[
+[
+"Subquest: Fur Hunters completed!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: Ca\u00e7adores de Pele conclu\u00edda!",
+"Voc\u00ea pode receber uma recompensa na se\u00e7\u00e3o",
+"de Miss\u00e3o Secund\u00e1ria do menu Miss\u00e3o."
+]
+],
+[
+[
+"@\udc81",
+"Subquest: Fur Hunters started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: Ca\u00e7adores de Pele iniciada!"
+]
+],
+[
+[
+"@\udc81",
+"Subquest: Investigation of Zandark Tower started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: Investiga\u00e7\u00e3o da Torre de Zandark iniciada!"
+]
+],
+[
+[
+"Subquest: Investigation of Zandark Tower cleared!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: Investiga\u00e7\u00e3o da Torre de Zandark conclu\u00edda!",
+"Voc\u00ea pode receber uma recompensa na se\u00e7\u00e3o",
+"de Miss\u00e3o Secund\u00e1ria do menu Miss\u00e3o."
+]
+],
+[
+[
+"Then who?! Other than an outsider like you, who wouldF\udc81"
+],
+[
+"Ent\u00e3o quem?! Al\u00e9m de um forasteiro como voc\u00ea, quem iriaF\udc81"
+]
+],
+[
+[
+"You shouldn't trust somebody likeF\udc81"
+],
+[
+"Voc\u00ea n\u00e3o deveria confiar em algu\u00e9m comoF\udc81"
+]
+],
+[
+[
+"With an SP Ring and 10 Spirit Gems, I can make an %C2%X-SP",
+"Ring%C0% any time for you."
+],
+[
+"Com um Anel de SP e 10 Gemas Espirituais, posso fazer um %C2%Anel X-",
+"SP%C0% para voc\u00ea quando quiser."
+]
+],
+[
+[
+"...I hear if you ask one of the sages, they can synthesize up",
+"S\udc81-rank, legendary ones."
+],
+[
+"...Dizem que, se pedir a um dos s\u00e1bios, eles sintetizam",
+"an\u00e9is lend\u00e1rios de rank S\udc81."
+]
+],
+[
+[
+"If I remember right, you'll need valuable rocks called Spirit",
+"Gems and certain V\udc81-rank rings to do it."
+],
+[
+"Se bem me lembro, vai precisar de pedras valiosas chamadas",
+"Gemas Espirituais e certos an\u00e9is de rank V\udc81."
+]
+],
+[
+[
+"But if you make a mistake and give her something like a",
+"Squid Biscuit%C0%, you'll have to exert incredible effort to try",
+"to repair the relationship..."
+],
+[
+"Mas se voc\u00ea errar e der a ela algo como um",
+"Biscoito de Lula%C0%, precisar\u00e1 fazer um esfor\u00e7o enorme",
+"para reparar o relacionamento..."
+]
+],
+[
+[
+"With a Magic Ring and 5 Spirit Gems, I can make a %C2%Charm",
+"Ring%C0% any time for you."
+],
+[
+"Com um Anel M\u00e1gico e 5 Gemas Espirituais, posso fazer um %C2%Anel",
+"de Charme%C0% para voc\u00ea quando quiser."
+]
+],
+[
+[
+"Well, uh, that was beforeF\udc81"
+],
+[
+"Bem, \u00e9, isso foi antesF\udc81"
+]
+],
+[
+[
+"Are these the %C2%powers of the deities%C0%...? In that case, I may not",
+"be able to handle you alone. I will have to summon my %C2%other",
+"half%C0%..."
+],
+[
+"Esses s\u00e3o os %C2%poderes das divindades%C0%...? Nesse caso, talvez eu",
+"n\u00e3o consiga lidar com voc\u00eas sozinho. Terei de invocar a %C2%outra",
+"metade%C0% de mim..."
+]
+],
+[
+[
+"These are the King's chambers. We shouldn't barge in without",
+" being with us."
+],
+[
+"Estes s\u00e3o os aposentos do Rei. N\u00e3o devemos entrar sem",
+" por perto."
+]
+],
+[
+[
+"\\55005000",
+"Party HP, MP & BG restored!%c(YAD=1)%"
+],
+[
+"\\55005000",
+"HP, MP e BG do grupo restaurados!%c(YAD=1)%"
+]
+],
+[
+[
+"With a Counter Ring and 3 Spirit Gems, I can make a",
+"Timepiece Ring%C0% any time for you."
+],
+[
+"Com um Anel Contra-ataque e 3 Gemas Espirituais, posso",
+"fazer um Anel Rel\u00f3gio%C0% para voc\u00ea quando quiser."
+]
+],
+[
+[
+"Make sure to bring me %C2%2 Power Rings%C0% you are %C2%not currently%C0%",
+"using%C0%!"
+],
+[
+"Traga para mim %C2%2 An\u00e9is de Poder%C0% que voc\u00ea %C2%n\u00e3o esteja usando%C0%",
+"no momento%C0%!"
+]
+],
+[
+[
+"Including myself, there are three of us. I want you to give %C2%1",
+"Ether Heal%C0% each to me and my men."
+],
+[
+"Contando comigo, somos tr\u00eas. Quero que d\u00ea %C2%1",
+"Cura Et\u00e9rea%C0% para mim e para cada um dos meus homens."
+]
+],
+[
+[
+"If you desire to look into his whereabouts, try visiting the",
+"Guild%C0%. Most all information passes through there."
+],
+[
+"Se quiser investigar o paradeiro dele, tente visitar a",
+"Guilda%C0%. Quase toda informa\u00e7\u00e3o passa por l\u00e1."
+]
+],
+[
+[
+"Y\udc81 Several years later Y\udc81"
+],
+[
+"Y\udc81 V\u00e1rios anos depois Y\udc81"
+]
+],
+[
+[
+"And the perfect place to hide would probably be on the %C2%east",
+"side%C0%..."
+],
+[
+"E o lugar perfeito para se esconder provavelmente seria no %C2%lado",
+"leste%C0%..."
+]
+],
+[
+[
+"@\udc81",
+"Subquest: My Precious Sword started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: Minha Espada Preciosa iniciada!"
+]
+],
+[
+[
+"The perfect place to hide would probably be on the %C2%east",
+"side%C0% of town..."
+],
+[
+"O lugar perfeito para se esconder provavelmente seria no %C2%lado",
+"leste%C0% da cidade..."
+]
+],
+[
+[
+"Subquest: My Precious Sword cleared!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: Minha Espada Preciosa conclu\u00edda!",
+"Uma recompensa pode ser recebida na se\u00e7\u00e3o",
+"de Miss\u00e3o Secund\u00e1ria do menu Miss\u00e3o."
+]
+],
+[
+[
+"This looks to be the escape passage. Let's hurry and follow it,",
+"!"
+],
+[
+"Parece ser a passagem de fuga. Vamos segui-la logo,",
+"!"
+]
+],
+[
+[
+"Door's locked, but there looks to be some %C2%stone",
+"decoration%C0% around the keyhole."
+],
+[
+"A porta est\u00e1 trancada, mas parece haver uma %C2%decora\u00e7\u00e3o de",
+"pedra%C0% em volta da fechadura."
+]
+],
+[
+[
+"Hmm... I was somewhat apprehensive, but this %C2%warding",
+"crystal%C0% appears to be undamaged."
+],
+[
+"Hmm... Eu estava um tanto apreensiva, mas este %C2%cristal",
+"protetor%C0% parece estar intacto."
+]
+],
+[
+[
+"By using warding crystals, monsters in the surrounding",
+"area can be lured into consecutive battles."
+],
+[
+"Usando cristais protetores, os monstros da \u00e1rea",
+"ao redor podem ser atra\u00eddos para batalhas consecutivas."
+]
+],
+[
+[
+"When encountering enemies too difficult to defeat,",
+"using these repeatedly to summon monsters into",
+"battle is an excellent way to level up."
+],
+[
+"Ao encontrar inimigos dif\u00edceis demais de derrotar,",
+"us\u00e1-los repetidamente para atrair monstros para a",
+"batalha \u00e9 uma excelente forma de subir de n\u00edvel."
+]
+],
+[
+[
+"However, after activating the warding crystal at the heart of",
+"an area, the encounter rate can then be adjusted to the max."
+],
+[
+"Por\u00e9m, ap\u00f3s ativar o cristal protetor no centro de",
+"uma \u00e1rea, a taxa de encontros pode ser ajustada ao m\u00e1ximo."
+]
+],
+[
+[
+"Are you with the Guild? Huh...? Is Her Highness, Princess",
+" not with you?"
+],
+[
+"Voc\u00ea \u00e9 da Guilda? H\u00e3...? Sua Alteza, a Princesa",
+" n\u00e3o est\u00e1 com voc\u00ea?"
+]
+],
+[
+[
+"(Hey, %n3A%. Do you think %n2A% and %n0A% are a bit more",
+"chummy than before?)"
+],
+[
+"(Ei, %n3A%. Acha que %n2A% e %n0A% est\u00e3o mais",
+"\u00edntimos do que antes?)"
+]
+],
+[
+[
+"You said R\u2225gain,R\udc81 right? What'd you mean by that?"
+],
+[
+"Voc\u00ea disse R\udc81ade novo,R\udc81 certo? O que quis dizer com isso?"
+]
+],
+[
+[
+"This airship is the last vessel of its kind... Please take care of",
+"it..."
+],
+[
+"Este dirig\u00edvel \u00e9 a \u00faltima embarca\u00e7\u00e3o do tipo... Por favor,",
+"cuide dele..."
+]
+],
+[
+[
+"However, unless the situation changes it is only a matter of",
+"time until I disappear."
+],
+[
+"Por\u00e9m, a menos que a situa\u00e7\u00e3o mude, \u00e9 apenas quest\u00e3o de",
+"tempo at\u00e9 eu desaparecer."
+]
+],
+[
+[
+"The time has finally come... where you must be able to... fly",
+"this airship..."
+],
+[
+"Finalmente chegou a hora... em que voc\u00eas precisam ser",
+"capazes de... pilotar este dirig\u00edvel..."
+]
+],
+[
+[
+"The one possessed by Thanatus... appears to have made his",
+"way north... to the place where... he has been sealed away..."
+],
+[
+"Aquele possu\u00eddo por Thanatus... parece ter seguido para o",
+"norte... at\u00e9 o lugar onde... ele foi selado..."
+]
+],
+[
+[
+"... %n3A%... I will need to borrow the magical powers... of",
+"your elementals..."
+],
+[
+"... %n3A%... Vou precisar emprestar os poderes m\u00e1gicos...",
+"dos seus elementais..."
+]
+],
+[
+[
+"Do whatever it takes to... defeat Thanatus... I now leave the",
+"rest... in your hands..."
+],
+[
+"Fa\u00e7a o que for preciso para... derrotar Thanatus... Agora deixo o",
+"resto... em suas m\u00e3os..."
+]
+],
+[
+[
+"R\uff40y heart is always with you. It always has been and always",
+"will be...R\udc81"
+],
+[
+"R\udc81Meu cora\u00e7\u00e3o est\u00e1 sempre com voc\u00ea. Sempre esteve e sempre",
+"estar\u00e1...R\udc81"
+]
+],
+[
+[
+"G\u3000\u3002e Alert!@\uff1b\udc81",
+"Spike floors%C0% have been set in ruins,",
+"temples, etc., in order to prevent intruders."
+],
+[
+"G\udc81@\udc81Fique Alerta!@\udc81G\udc81",
+"Pisos de espinhos%C0% foram colocados em ru\u00ednas,",
+"templos etc., para impedir a entrada de intrusos."
+]
+],
+[
+[
+"Stepping on them will result in %C2%damage%C0% for the party,",
+"so would be wise to avoid them by taking the long",
+"route rather than stepping over them."
+],
+[
+"Pisar neles causar\u00e1 %C2%dano%C0% ao grupo,",
+"ent\u00e3o \u00e9 prudente evit\u00e1-los pegando o caminho",
+"mais longo em vez de passar por cima."
+]
+],
+[
+[
+"G\u3000\u3002e Alert!@\uff1b\udc81",
+"Slippery floors%C0% have been set in ruins,",
+"temples, etc., in order to prevent intruders."
+],
+[
+"G\udc81@\udc81Fique Alerta!@\udc81G\udc81",
+"Pisos escorregadios%C0% foram colocados em ru\u00ednas,",
+"templos etc., para impedir a entrada de intrusos."
+]
+],
+[
+[
+"Stepping on them will result in the party %C2%sliding%C0% in a",
+"certain direction. There are also cases where the party",
+"cannot return to where they were originally."
+],
+[
+"Pisar neles far\u00e1 o grupo %C2%deslizar%C0% em uma",
+"determinada dire\u00e7\u00e3o. H\u00e1 tamb\u00e9m casos em que o grupo",
+"n\u00e3o consegue voltar ao ponto de origem."
+]
+],
+[
+[
+"When the party encounters such floors, it would be best to",
+"take a good look at the area before stepping on them."
+],
+[
+"Quando o grupo encontrar esses pisos, \u00e9 melhor",
+"observar bem a \u00e1rea antes de pisar neles."
+]
+],
+[
+[
+"In that altar was a sacred crystal that stored the prayers",
+"of the ancient people of Lightoria and Zandark..."
+],
+[
+"Naquele altar havia um cristal sagrado que guardava as ora\u00e7\u00f5es",
+"dos povos antigos de Lightoria e Zandark..."
+]
+],
+[
+[
+"The magical powers of that crystal and %n0A%'s Old Sword",
+"must have caused the resonance."
+],
+[
+"O poder daquele cristal e da Espada Velha de %n0A%",
+"deve ter causado a resson\u00e2ncia."
+]
+],
+[
+[
+"The Old Sword in %n0A%'s possession has a curse cast",
+"upon it by Thanatus."
+],
+[
+"A Espada Velha em posse de %n0A% tem uma maldi\u00e7\u00e3o",
+"lan\u00e7ada por Thanatus."
+]
+],
+[
+[
+"By using the remaining power of the altar I should be able",
+"to eliminate the evil curse from it. Now hold out your blade",
+"before the altar..."
+],
+[
+"Usando o poder restante do altar, devo conseguir eliminar a",
+"maldi\u00e7\u00e3o maligna dela. Agora, estenda sua l\u00e2mina",
+"diante do altar..."
+]
+],
+[
+[
+"This blade stained with the powers of evil...! Become purified",
+"through these holy powers and the prayers and wishes of the",
+"ancient ones for peace..."
+],
+[
+"Esta l\u00e2mina manchada pelos poderes do mal...! Seja purificada",
+"por estes poderes sagrados e pelas ora\u00e7\u00f5es e desejos dos",
+"antigos por paz..."
+]
+],
+[
+[
+"Now %n0A%...! Take that sword in hand and use it to put a",
+"stop to the ambitions of Thanatus..."
+],
+[
+"Agora, %n0A%...! Empunhe aquela espada e use-a para p\u00f4r",
+"fim \u00e0s ambi\u00e7\u00f5es de Thanatus..."
+]
+],
+[
+[
+"Y-Yes, I'm fine. Rather than that, we need to find a place for",
+" to rest..."
+],
+[
+"S-Sim, estou bem. Mais importante, precisamos achar um lugar",
+" para descansar..."
+]
+],
+[
+[
+"Door's locked. It look like this keyhole has the %C2%design of the",
+"moon on it%C0% to you?"
+],
+[
+"A porta est\u00e1 trancada. Esta fechadura tem o %C2%desenho",
+"da lua%C0%, n\u00e3o parece?"
+]
+],
+[
+[
+"The Shadow Spirit's powers in Zandark Tower and Princess",
+"'s magical abilities are resonating with each other."
+],
+[
+"O poder do Esp\u00edrito da Sombra na Torre Zandark e da Princesa",
+" est\u00e3o ressoando entre si."
+]
+],
+[
+[
+"I had been awaiting your comingF\u3010ou who are worthy to",
+"be granted the powers of the spirits..."
+],
+[
+"Eu aguardava a sua chegadaF\udc81voc\u00ea, digno de",
+"receber os poderes dos esp\u00edritos..."
+]
+],
+[
+[
+"The people of Zandark call me the %C2%Shadow Deity%C0% while the",
+"people of Lightoria call me the %C2%Light Deity%C0%..."
+],
+[
+"O povo de Zandark me chama de %C2%Divindade da Sombra%C0%",
+"e o povo de Lightoria me chama de %C2%Divindade da Luz%C0%..."
+]
+],
+[
+[
+"Not, R\u309dhat's nice.R\udc81 You should be more surprised!"
+],
+[
+"N\u00e3o diga R\udc81T\u00e1 legal.R\udc81 Voc\u00ea deveria ficar mais surpreso!"
+]
+],
+[
+[
+"When you were born in this world, I was the one who granted",
+"you increased powers."
+],
+[
+"Quando voc\u00ea nasceu neste mundo, fui eu quem lhe concedeu",
+"poderes aumentados."
+]
+],
+[
+[
+"I had sealed it away in a far dimension, but it must have",
+"recently resurrected..."
+],
+[
+"Eu o havia selado em uma dimens\u00e3o distante, mas ele deve ter",
+"ressurgido recentemente..."
+]
+],
+[
+[
+"By sealing him away, my powers weakened, and calamities",
+"began occurring in the world."
+],
+[
+"Ao sel\u00e1-lo, meus poderes enfraqueceram, e calamidades",
+"come\u00e7aram a ocorrer no mundo."
+]
+],
+[
+[
+"With that, the negative emotions that arose from people",
+"weakened my powers further."
+],
+[
+"Com isso, as emo\u00e7\u00f5es negativas que surgiram nas pessoas",
+"enfraqueceram ainda mais os meus poderes."
+]
+],
+[
+[
+"Yes... However, he was possessed by a manifestation of",
+"Thanatus."
+],
+[
+"Sim... Por\u00e9m, ele foi possu\u00eddo por uma manifesta\u00e7\u00e3o de",
+"Thanatus."
+]
+],
+[
+[
+"Unfortunately, you will be unable to stop him with your",
+"current strength..."
+],
+[
+"Infelizmente, voc\u00ea n\u00e3o conseguir\u00e1 det\u00ea-lo com a sua",
+"for\u00e7a atual..."
+]
+],
+[
+[
+"However, I will grant you the powers of the spirits so that",
+"you will be able to face him..."
+],
+[
+"Contudo, concederei a voc\u00ea os poderes dos esp\u00edritos para que",
+"possa enfrent\u00e1-lo..."
+]
+],
+[
+[
+"It would seem you recently traveled through Lightoria",
+"Kingdom, is that right?"
+],
+[
+"Parece que voc\u00ea viajou recentemente pelo Reino de",
+"Lightoria, estou certa?"
+]
+],
+[
+[
+"I can sense powerful light magic coming from you, so I will",
+"prepare another Light Spirit for you. Illusia!"
+],
+[
+"Sinto uma poderosa magia de luz vinda de voc\u00ea, ent\u00e3o",
+"preparei outro Esp\u00edrito da Luz para voc\u00ea. Illusia!"
+]
+],
+[
+[
+"While it is true the negative emotions of people weaken",
+"my powers..."
+],
+[
+"Embora seja verdade que as emo\u00e7\u00f5es negativas das pessoas",
+"enfraquecem os meus poderes..."
+]
+],
+[
+[
+"...it is also true your righteous actions suppress the powers",
+"of these negative emotions."
+],
+[
+"...tamb\u00e9m \u00e9 verdade que suas a\u00e7\u00f5es justas suprimem o poder",
+"dessas emo\u00e7\u00f5es negativas."
+]
+],
+[
+[
+"Your words are encouraging... I will leave the rest in your",
+"hands."
+],
+[
+"Suas palavras s\u00e3o encorajadoras... Deixarei o resto em",
+"suas m\u00e3os."
+]
+],
+[
+[
+"He may have been able to sense I granted you some of my",
+"powers using the powers Thanatus possesses..."
+],
+[
+"Ele pode ter sentido que concedi parte dos meus poderes",
+"a voc\u00ea, usando os poderes que Thanatus possui..."
+]
+],
+[
+[
+"I sense his presence up the staircase on the left. Please",
+"stop him using the powers of the spirits."
+],
+[
+"Sinto a presen\u00e7a dele no alto da escada \u00e0 esquerda. Por favor,",
+"detenha-o usando os poderes dos esp\u00edritos."
+]
+],
+[
+[
+"If it ever becomes necessary to review how",
+"spirits work, an explanation can be found in",
+"the %C2%Help%C0% section of the menu."
+],
+[
+"Caso seja necess\u00e1rio rever como os esp\u00edritos",
+"funcionam, h\u00e1 uma explica\u00e7\u00e3o na se\u00e7\u00e3o",
+"%C2%Ajuda%C0% do menu."
+]
+],
+[
+[
+"G\u30fbquipping %C2%Spirits%C0%G\udc81",
+"By equipping the spirits granted by the Spirit Deity, party",
+"members can learn magic associated with their elemental."
+],
+[
+"G\udc81Equipando %C2%Esp\u00edritos%C0%G\udc81",
+"Ao equipar os esp\u00edritos concedidos pela Divindade Espiritual,",
+"os membros do grupo aprendem magias do seu elemento."
+]
+],
+[
+[
+"Characters can equip spirits for each elemental and,",
+"by doing so, level up a sub elemental. Therefore, it",
+"would be wise to proactively equip them!"
+],
+[
+"Os personagens podem equipar esp\u00edritos de cada elemento",
+"e, assim, subir o n\u00edvel de um subelemento. Por isso,",
+"\u00e9 sensato equip\u00e1-los ativamente!"
+]
+],
+[
+[
+"Moreover, by equipping spirits, they will act as a",
+"support for party members in battle."
+],
+[
+"Al\u00e9m disso, ao equipar esp\u00edritos, eles atuar\u00e3o como",
+"apoio para os membros do grupo em batalha."
+]
+],
+[
+[
+"In addition to attack magic, the Light and Void Spirits use",
+"support magic with recovery and parameter enhancing effects,",
+"and Shadow Spirit uses magic that deals with abnormal status."
+],
+[
+"Al\u00e9m de magias de ataque, os Esp\u00edritos da Luz e do Vazio",
+"usam magias de apoio com efeitos de recupera\u00e7\u00e3o e de",
+"aprimoramento, e o Esp\u00edrito da Sombra usa magias de status."
+]
+],
+[
+[
+"The number of times spirits can support the party in battle is",
+"limited. A character's Spirit Energy is used each time they",
+"act, and if depleted, they will no longer be able to do so."
+],
+[
+"O n\u00famero de vezes que os esp\u00edritos podem apoiar o grupo",
+"em batalha \u00e9 limitado. A Energia Espiritual do personagem",
+"\u00e9 gasta a cada a\u00e7\u00e3o e, se acabar, n\u00e3o ser\u00e1 mais poss\u00edvel."
+]
+],
+[
+[
+"Spirit Energy can be restored by staying at an inn or by using",
+"an item called a R\u30fepirit Cookie.R\udc81 This would be best kept",
+"replenished for situations where spirit support is needed."
+],
+[
+"A Energia Espiritual volta ao se hospedar numa",
+"estalagem ou usando um R\udc81Biscoito Espiritual.R\udc81",
+"Conv\u00e9m guard\u00e1-lo para quando precisar do apoio dos esp\u00edritos."
+]
+],
+[
+[
+"G\udc81 %C2%Trust Gauge%C0% G\udc81",
+"With spirits now having joined the party,",
+"new skills have become available!"
+],
+[
+"G\udc81 %C2%Medidor de Confian\u00e7a%C0% G\udc81",
+"Com os esp\u00edritos agora no grupo,",
+"novas habilidades ficaram dispon\u00edveis!"
+]
+],
+[
+[
+"The trust gauge fills as the party acts in battle",
+"and defeats enemies."
+],
+[
+"O medidor de confian\u00e7a enche conforme o grupo age",
+"em batalha e derrota inimigos."
+]
+],
+[
+[
+"When maxed out, the party will be able to use special skills",
+"unique to each character by selecting the Trust Charge tab",
+"in the Skill section of the menu."
+],
+[
+"Quando estiver cheio, o grupo poder\u00e1 usar habilidades",
+"especiais de cada personagem, selecionando a aba Carga de",
+"Confian\u00e7a na se\u00e7\u00e3o Habilidades do menu."
+]
+],
+[
+[
+"Trust charges triggered, they consume the entire gauge,",
+"so it would be wise to consider how to gain",
+"the upper hand in battle using them."
+],
+[
+"As cargas de confian\u00e7a consomem o medidor inteiro ao",
+"serem ativadas, ent\u00e3o \u00e9 sensato pensar em como obter",
+"vantagem na batalha usando-as."
+]
+],
+[
+[
+"It is no lie. You have no recollection of your childhood, do you,",
+"...?"
+],
+[
+"\u00c9 verdade. Voc\u00ea n\u00e3o se lembra da sua inf\u00e2ncia, n\u00e3o \u00e9,",
+"...?"
+]
+],
+[
+[
+"... Save your... parents' souls... and find... out the",
+"truth... from them..."
+],
+[
+"... Salve... as almas dos seus... pais... e descubra... a",
+"verdade... com eles..."
+]
+],
+[
+[
+"Because of your wise actions... I am still able to keep myself",
+"from disappearing..."
+],
+[
+"Gra\u00e7as \u00e0s suas a\u00e7\u00f5es s\u00e1bias... ainda consigo evitar",
+"desaparecer..."
+]
+],
+[
+[
+"You have nothing to be regret, %n2A%... You have steadily",
+"gained enough strength... that you are now able to oppose",
+"Thanatus..."
+],
+[
+"Voc\u00ea n\u00e3o tem do que se arrepender, %n2A%... Voc\u00ea ganhou",
+"for\u00e7a aos poucos... e agora \u00e9 capaz de se opor a",
+"Thanatus..."
+]
+],
+[
+[
+"In your current state... you should be able to use these",
+"spirits... to awaken the powers within you..."
+],
+[
+"No seu estado atual... voc\u00ea deve ser capaz de usar estes",
+"esp\u00edritos... para despertar os poderes dentro de voc\u00ea..."
+]
+],
+[
+[
+"Using my powers... I will awaken the true powers of the",
+"spirits... that have been sealed away..."
+],
+[
+"Com os meus poderes... despertarei o verdadeiro poder dos",
+"esp\u00edritos... que foram selados..."
+]
+],
+[
+[
+"There is no time left... to come up with another plan... to save",
+"this world..."
+],
+[
+"N\u00e3o resta tempo... para elaborar outro plano... para salvar",
+"este mundo..."
+]
+],
+[
+[
+"I will draw out the powers... of the spirits and your own... to",
+"their maximum capacity... There is no other way for you... to",
+"defeat Thanatus..."
+],
+[
+"Extrairei o poder... dos esp\u00edritos e o seu... ao m\u00e1ximo de",
+"sua capacidade... N\u00e3o h\u00e1 outro modo... de voc\u00ea",
+"derrotar Thanatus..."
+]
+],
+[
+[
+"@\udc81",
+"The spirits' abilities were increased by the Spirit Deity's powers!"
+],
+[
+"@\udc81",
+"Poderes dos esp\u00edritos aumentados pela Divindade Espiritual!"
+]
+],
+[
+[
+"With this... the spirits should be able... to harness their original",
+"powers..."
+],
+[
+"Com isso... os esp\u00edritos devem ser capazes... de usar seus",
+"poderes originais..."
+]
+],
+[
+[
+"Now fight together... and do whatever is necessary... to defeat",
+"Thanatus..."
+],
+[
+"Agora lutem juntos... e fa\u00e7am o necess\u00e1rio... para derrotar",
+"Thanatus..."
+]
+],
+[
+[
+"Hmm... I have no objections. You have become strong,",
+"..."
+],
+[
+"Hum... N\u00e3o tenho obje\u00e7\u00f5es. Voc\u00ea ficou forte,",
+"..."
+]
+],
+[
+[
+"Hmm... R\uff01f you wish to proceed, cause the pentacle to appear",
+"on the empty path next to you.R\udc81"
+],
+[
+"Hum... R\udc81Se deseja prosseguir, fa\u00e7a o pent\u00e1culo aparecer",
+"no caminho vazio ao seu lado.R\udc81"
+]
+],
+[
+[
+"There is some more written here. R\u309do do this, illuminate all of",
+"the darkened floor tiles.R\udc81"
+],
+[
+"H\u00e1 mais algo escrito aqui. R\udc81Todos os pisos escuros",
+"devem ser iluminados.R\udc81"
+]
+],
+[
+[
+"R\uff01f you wish to proceed, cause the pentacle to appear on the",
+"empty path next to you,R\udc81 ...is what it says."
+],
+[
+"R\udc81Se deseja prosseguir, fa\u00e7a o pent\u00e1culo aparecer no",
+"caminho vazio ao seu lado,R\udc81 ...\u00e9 o que diz."
+]
+],
+[
+[
+"Now come forth, my monstF\udc81"
+],
+[
+"Venha, meu monstF\udc81"
+]
+],
+[
+[
+"I apologize, but I am unable to read these characters. The %C2%4",
+"broken areas%C0% on it, however, seem to stick out..."
+],
+[
+"Sinto muito, mas n\u00e3o consigo ler estes caracteres. As %C2%4",
+"\u00e1reas quebradas%C0% nele, por\u00e9m, chamam a aten\u00e7\u00e3o..."
+]
+],
+[
+[
+"Placed 1 Shadow Fragment into",
+"the broken area of the pillar!"
+],
+[
+"1 Fragmento de Sombra colocado na",
+"\u00e1rea quebrada do pilar!"
+]
+],
+[
+[
+"@\udc81",
+"Rings can now be synthesized to %C2%rank S\udc81%C0%!"
+],
+[
+"@\udc81",
+"Agora \u00e9 poss\u00edvel sintetizar an\u00e9is at\u00e9 o %C2%rank S\udc81%C0%!"
+]
+],
+[
+[
+"They are staying there to prevent the collapse of these",
+"ruins due to the vanishing dimension."
+],
+[
+"Eles ficam l\u00e1 para evitar o colapso destas ru\u00ednas",
+"devido ao desaparecimento da dimens\u00e3o."
+]
+],
+[
+[
+"With the defeat of Thanatus, I have regained a portion of",
+"myself, and my powers are slowly returning..."
+],
+[
+"Com a derrota de Thanatus, recuperei parte de mim",
+"mesma, e meus poderes voltam aos poucos..."
+]
+],
+[
+[
+"However, not to the extent to stop the complete collapse of",
+"the dimension created by Thanatus."
+],
+[
+"Por\u00e9m, n\u00e3o o bastante para impedir o colapso total da",
+"dimens\u00e3o criada por Thanatus."
+]
+],
+[
+[
+"Please hurry outside while the spirits you have raised slow",
+"its impending destruction..."
+],
+[
+"Por favor, saia depressa enquanto os esp\u00edritos que voc\u00ea",
+"criou retardam a destrui\u00e7\u00e3o iminente..."
+]
+],
+[
+[
+"Humph... Are you sure this is what you want? If you kill us,",
+" will die!"
+],
+[
+"Hunf... Tem certeza de que \u00e9 isso que quer? Se nos matar,",
+" vai morrer!"
+]
+],
+[
+[
+"I exorcised the manifestations of Thanatus with this %C2%Spirit",
+"Deity Crystal%C0%'s powers."
+],
+[
+"Exorcizei as manifesta\u00e7\u00f5es de Thanatus com o poder do %C2%Cristal",
+"da Divindade Espiritual%C0%."
+]
+],
+[
+[
+"(While I can't fight alongside you, my heart is always with you.",
+"It always has been and always will be...)"
+],
+[
+"(Embora eu n\u00e3o possa lutar ao seu lado, meu cora\u00e7\u00e3o est\u00e1",
+"sempre com voc\u00ea. Sempre esteve e sempre estar\u00e1...)"
+]
+],
+[
+[
+"(Now get it together, %n0A%! I'm watching to see just how much",
+"my son has grown...!)"
+],
+[
+"(Agora se recomponha, %n0A%! Estou vendo o quanto meu",
+"filho cresceu...!)"
+]
+],
+[
+[
+"So you'll take the test? In that case, there's a %C2%cave to the ",
+"southwest of here%C0%. I want you to go there and bring back a",
+"badge%C0% from the place."
+],
+[
+"Ent\u00e3o vai fazer o teste? Nesse caso, h\u00e1 uma %C2%caverna ao ",
+"sudoeste daqui%C0%. Quero que v\u00e1 at\u00e9 l\u00e1 e traga um",
+"distintivo%C0% de l\u00e1."
+]
+],
+[
+[
+"That is quite a respectable thing to hear coming from you,",
+"."
+],
+[
+"\u00c9 bem respeit\u00e1vel ouvir isso vindo de voc\u00ea,",
+"."
+]
+],
+[
+[
+"The last place these soldiers were seen was %C2%west%C0% of here in",
+"Telpora Cave%C0%. Please let me know if you're able to locate",
+"them."
+],
+[
+"O \u00faltimo lugar onde viram esses soldados foi a %C2%oeste%C0%",
+"daqui, na Caverna de Telpora%C0%. Avise-me se",
+"conseguir encontr\u00e1-los."
+]
+],
+[
+[
+"A report has come in that a suspicious figure was seen in",
+"Null Ruins%C0%. I hate to put this on you,",
+"but please go look into it!"
+],
+[
+"Chegou um relato de que uma figura suspeita foi vista nas",
+"Ru\u00ednas Null%C0%. Detesto pedir isso a voc\u00ea,",
+"mas v\u00e1 investigar, por favor!"
+]
+],
+[
+[
+"I've received some information about Nondians attacking",
+"Helion Town%C0%."
+],
+[
+"Recebi informa\u00e7\u00f5es sobre nondianos atacando a",
+"Cidade de Helion%C0%."
+]
+],
+[
+[
+"The airship Axel is using was probably something stolen from",
+"Zeron Cave%C0%..."
+],
+[
+"O dirig\u00edvel do Axel provavelmente foi roubado da",
+"Caverna de Zeron%C0%..."
+]
+],
+[
+[
+"You say you're looking for some %C2%Power Rings (U\udc81)%C0%? They can be",
+"obtained from the %C2%Guild exchange%C0%."
+],
+[
+"Est\u00e1 procurando %C2%An\u00e9is de Poder (U\udc81)%C0%? D\u00e1 para",
+"obt\u00ea-los na %C2%troca da Guilda%C0%."
+]
+],
+[
+[
+"You say you're looking for some %C2%Boost Rings (V\udc81)%C0%? They can be",
+"synthesized by using a %C2%Berserk Ring (W\udc81)%C0% and a %C2% Toughness Ring",
+"(W\udc81)."
+],
+[
+"Est\u00e1 procurando %C2%An\u00e9is Impulso (V\udc81)%C0%? D\u00e1 para",
+"sintetiz\u00e1-los com um %C2%Anel Berserk (W\udc81)%C0% e um %C2% Anel de Resist\u00eancia",
+"(W\udc81)."
+]
+],
+[
+[
+"It's necessary to synthesize a %C2%Power Ring (U\udc81)%C0% and %C2%Guard Ring",
+"(U\udc81)%C0% to get a Berserk Ring (W\udc81)."
+],
+[
+"\u00c9 preciso sintetizar um %C2%Anel de Poder (U\udc81)%C0% e um %C2%Anel de Guarda",
+"(U\udc81)%C0% para obter um Anel Berserk (W\udc81)."
+]
+],
+[
+[
+"A Toughness Ring (W\udc81) can either be synthesized or be obtained",
+"from the %C2%Guild exchange%C0%! Anyway, good luck!"
+],
+[
+"Um Anel de Resist\u00eancia (W\udc81) pode ser sintetizado ou obtido",
+"na %C2%troca da Guilda%C0%! Enfim, boa sorte!"
+]
+],
+[
+[
+"You say you are looking for a %C2%Magus Ring (V\udc81)%C0%? It can be",
+"synthesized by using an %C2%EXP Ring (W\udc81)%C0% and an %C2% Armor Ring (W\udc81)%C0%."
+],
+[
+"Est\u00e1 procurando um %C2%Anel Magus (V\udc81)%C0%? D\u00e1 para sintetiz\u00e1-lo",
+"com um %C2%Anel de EXP (W\udc81)%C0% e um %C2% Anel de Armadura (W\udc81)%C0%."
+]
+],
+[
+[
+"It's necessary to synthesize an %C2%Intelligence Ring (U\udc81)%C0% and",
+"Speed Ring (U\udc81)%C0% to get an EXP Ring (W\udc81)."
+],
+[
+"\u00c9 preciso sintetizar um %C2%Anel de Intelig\u00eancia (U\udc81)%C0% e um",
+"Anel de Velocidade (U\udc81)%C0% para obter um Anel de EXP (W\udc81)."
+]
+],
+[
+[
+"An Armor Ring (W\udc81) can either be synthesized or be obtained",
+"from the %C2%Guild exchange%C0%! Anyway, good luck!"
+],
+[
+"Um Anel de Armadura (W\udc81) pode ser sintetizado ou obtido",
+"na %C2%troca da Guilda%C0%! Enfim, boa sorte!"
+]
+],
+[
+[
+"I'd like you to bring me back a %C2%Tablet  Fragment%C0% from",
+"Sol Ruins%C0%. I'm counting on you!"
+],
+[
+"Quero que me traga um %C2%Fragmento de Tablete%C0% das",
+"Ru\u00ednas de Sol%C0%. Conto com voc\u00ea!"
+]
+],
+[
+[
+"I'd like you to bring me back a %C2% Stone Tablet Fragment%C0% from",
+"Lightoria Tower%C0%. I'll leave the rest to you!"
+],
+[
+"Quero que me traga um %C2% Fragmento de Tablete de Pedra%C0% da",
+"Torre de Lightoria%C0%. Deixo o resto com voc\u00ea!"
+]
+],
+[
+[
+"What? You don't have one yet? Remember, it was a",
+"Timepiece Ring %C0%."
+],
+[
+"O qu\u00ea? Ainda n\u00e3o tem um? Lembre-se, era um",
+"Anel Rel\u00f3gio %C0%."
+]
+],
+[
+[
+"What? You don't have them yet? Remember it was %C2%2 Squid",
+"Legs%C0%. Be sure to bring them back for Lucy here. Now good",
+"luck!"
+],
+[
+"O qu\u00ea? Ainda n\u00e3o tem? Lembre-se, eram %C2%2 Pernas de",
+"Lula%C0%. Traga-as para a Lucy aqui. Agora, boa",
+"sorte!"
+]
+],
+[
+[
+"@\udc81",
+"Subquest: Joy in Life started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: Alegria de Viver iniciada!"
+]
+],
+[
+[
+"Subquest: Urgent Delivery completed!",
+"An award can be received from the",
+"Subquest section of the Quest menu."
+],
+[
+"Miss\u00e3o Secund\u00e1ria: Entrega Urgente conclu\u00edda!",
+"A recompensa pode ser recebida na se\u00e7\u00e3o",
+"Miss\u00e3o Secund\u00e1ria do menu de Miss\u00f5es."
+]
+],
+[
+[
+"@\udc81",
+"Subquest: Urgent Delivery started!"
+],
+[
+"@\udc81",
+"Miss\u00e3o Secund\u00e1ria: Entrega Urgente iniciada!"
+]
+],
+[
+[
+"@\udc81",
+"Picked up %C7%Lumber%C0%!"
+],
+[
+"@\udc81",
+"Pegou %C7%Madeira%C0%!"
+]
+],
+[
+[
+"R\uff01'm sure they'll be a boon to both your adventure and life...R\udc81",
+"is what this paper says, so I hope that helps!"
+],
+[
+"R\udc81Ser\u00e3o uma b\u00ean\u00e7\u00e3o para sua aventura e sua vida...R\udc81",
+"\u00e9 o que diz este papel, ent\u00e3o espero que ajude!"
+]
+],
+[
+[
+"Received %C7%Cool Gel%C0%, %C7%Bear Claw%C0% X\udc81 ",
+"Behemoth Horn%C0% x5 each!"
+],
+[
+"Recebeu %C7%Gel Refrescante%C0%, %C7%Garra de Urso%C0% X\udc81 ",
+"Chifre de Beemote%C0% x5 de cada!"
+]
+],
+[
+[
+"That lane leads to a battle with %C0%Air X\udc81 Sea%C0%. The",
+"recommended level is 250 or higher%C0% and the fee to",
+"participate is 82,500 gold."
+],
+[
+"Essa pista leva a uma batalha contra %C0%Ar X\udc81 Mar%C0%. O",
+"n\u00edvel recomendado \u00e9 250 ou mais%C0% e a taxa para",
+"participar \u00e9 de 82.500 de ouro."
+]
+],
+[
+[
+"That lane leads to a battle with %C0%Team Nondia%C0%. The",
+"recommended level is 350 or higher%C0% and the fee to",
+"participate is 112,500 gold."
+],
+[
+"Essa pista leva a uma batalha contra %C0%Equipe Nondia%C0%. O",
+"n\u00edvel recomendado \u00e9 350 ou mais%C0% e a taxa para",
+"participar \u00e9 de 112.500 de ouro."
+]
+],
+[
+[
+"That lane leads to a battle with %C0%Saga Sprites%C0%. The",
+"recommended level is 450 or higher%C0% and the fee to",
+"participate is 243,600 gold."
+],
+[
+"Essa pista leva a uma batalha contra %C0%Esp\u00edritos da Saga%C0%. O",
+"n\u00edvel recomendado \u00e9 450 ou mais%C0% e a taxa para",
+"participar \u00e9 de 243.600 de ouro."
+]
+],
+[
+[
+"That lane leads to a battle with %C0%Maid Perfect%C0%. The",
+"recommended level is 550 or higher%C0% and the fee to",
+"participate is 675,000 gold."
+],
+[
+"Essa pista leva a uma batalha contra %C0%Criada Perfeita%C0%. O",
+"n\u00edvel recomendado \u00e9 550 ou mais%C0% e a taxa para",
+"participar \u00e9 de 675.000 de ouro."
+]
+],
+[
+[
+"Oh, my! Are we in for a treat today! Our challengers will be",
+"taking on Air X\udc81 Sea! Now if both sides are ready? Then let us",
+"see the fight of a lifetime!%J('01bb3e)%"
+],
+[
+"Nossa! Que espet\u00e1culo teremos hoje! Nossos desafiantes",
+"enfrentar\u00e3o Ar X\udc81 Mar! Se os dois lados estiverem prontos,",
+"vamos ver a luta da vida!%J('01bb3e)%"
+]
+],
+[
+[
+"Received %C7%Ultimate Bean%C0% x10 X\udc81",
+"Excellent Bean%C0% x5!%J('01c200)%"
+],
+[
+"Recebeu %C7%Feij\u00e3o Supremo%C0% x10 X\udc81",
+"Feij\u00e3o Excelente%C0% x5!%J('01c200)%"
+]
+],
+[
+[
+"@\udc81",
+"Received %Y0%Guild Coin x%W0%%C0% as a prize!"
+],
+[
+"@\udc81",
+"Recebeu %Y0%Moeda da Guilda x%W0%%C0% como pr\u00eamio!"
+]
+],
+[
+[
+"It seems there's some information about them available in",
+"Taranp Town%C0%, so I was wondering if you could look into it?",
+"Once you have 1, please give it to the Guild Chief!%J('01da45)%"
+],
+[
+"Parece que h\u00e1 informa\u00e7\u00f5es sobre eles na",
+"Cidade de Taranp%C0%. Podem investigar para mim?",
+"Quando tiverem 1, entreguem ao Chefe da Guilda!%J('01da45)%"
+]
+],
+[
+[
+"Let me see here. The %C2% Power Rings (U\udc81)%C0% the client wants can be",
+"obtained from the %C2%Guild exchange%C0%."
+],
+[
+"Deixe ver. Os %C2%An\u00e9is de Poder (U\udc81)%C0% que o cliente",
+"quer podem ser obtidos na %C2%troca da Guilda%C0%."
+]
+],
+[
+[
+"The %C2% Boost Rings (U\udc81)%C0% the client wants can be synthesized",
+"using a %C2%Berserk Ring (W\udc81)%C0% and a %C2% Toughness Ring (W\udc81)."
+],
+[
+"Os %C2% An\u00e9is Impulso (U\udc81)%C0% que o cliente quer podem ser sintetizados",
+"com um %C2%Anel Berserk (W\udc81)%C0% e um %C2% Anel de Resist\u00eancia (W\udc81)."
+]
+],
+[
+[
+"A Berserk Ring (W\udc81) is synthesized by using a %C2%Power Ring (U\udc81)%C0% and",
+"a %C2%Guard Ring (U\udc81)%C0%."
+],
+[
+"Um Anel Berserk (W\udc81) \u00e9 sintetizado com um %C2%Anel de Poder (U\udc81)%C0% e",
+"um %C2%Anel de Guarda (U\udc81)%C0%."
+]
+],
+[
+[
+"A Toughness Ring (W\udc81) can either be synthesized or be obtained",
+"from the %C2%Guild exchange%C0%."
+],
+[
+"Um Anel de Resist\u00eancia (W\udc81) pode ser sintetizado ou obtido",
+"na %C2%troca da Guilda%C0%."
+]
+],
+[
+[
+"A Magus Ring (V\udc81) is synthesized by using an %C2%EXP Ring (W\udc81)%C0% and an",
+"Armor Ring (W\udc81)%C0%."
+],
+[
+"Um Anel Magus (V\udc81) \u00e9 sintetizado com um %C2%Anel de EXP (W\udc81)%C0% e um",
+"Anel de Armadura (W\udc81)%C0%."
+]
+],
+[
+[
+"An EXP Ring (W\udc81) is synthesized by using an Intelligence Ring",
+"(U\udc81) and a %C2%Speed Ring (U\udc81)%C0%."
+],
+[
+"Um Anel de EXP (W\udc81) \u00e9 sintetizado com um Anel de Intelig\u00eancia",
+"(U\udc81) e um %C2%Anel de Velocidade (U\udc81)%C0%."
+]
+],
+[
+[
+"An Armor Ring (W\udc81) can either be synthesized or be obtained",
+"from the %C2%Guild exchange%C0%."
+],
+[
+"Um Anel de Armadura (W\udc81) pode ser sintetizado ou obtido",
+"na %C2%troca da Guilda%C0%."
+]
+],
+[
+[
+"@\udc81",
+"Job: %w2% started!"
+],
+[
+"@\udc81",
+"Trabalho: %w2% iniciado!"
+]
+],
+[
+[
+"Being called R\uff40omR\udc81? Or is it because %n0A% can be the Dad?",
+"Which one is it? Tell me, tell me, tell me!"
+],
+[
+"Te chamarem de R\udc81Mam\u00e3eR\udc81? Ou %n0A% \u00e9 o Papai?",
+"Qual dos dois \u00e9? Diga, diga, diga!"
+]
+],
+[
+[
+"Might even find out something about this Cabala fellow",
+"'s been searching for."
+],
+[
+"Talvez at\u00e9 descubra algo sobre esse tal Cabala que",
+"est\u00e1 procurando."
+]
+],
+[
+[
+"Yes, at least that is how we regard you. Is that not right,",
+"?"
+],
+[
+"Sim, pelo menos \u00e9 assim que a consideramos. N\u00e3o \u00e9 verdade,",
+"?"
+]
+],
+[
+[
+"G\u3000\u3002e Alert!@\uff1b\udc81",
+"Pitfalls%C0% have been set in places like",
+"caves, etc., in order to prevent intruders."
+],
+[
+"G\udc81@\udc81Fique Alerta!@\udc81G\udc81",
+"Armadilhas%C0% foram colocadas em locais como",
+"cavernas, etc., para impedir invasores."
+]
+],
+[
+[
+"Stepping on them will result in the party being",
+"forced to end up somewhere else%C0%, and from ",
+"which they may not be able to return easily."
+],
+[
+"Pisar nelas far\u00e1 o grupo ser",
+"for\u00e7ado a parar em outro lugar%C0%, de onde",
+"talvez n\u00e3o consiga voltar com facilidade."
+]
+],
+[
+[
+"The party should be careful where they step",
+"if they discover these."
+],
+[
+"O grupo deve tomar cuidado onde pisa",
+"se encontrar essas armadilhas."
+]
+],
+[
+[
+"Hmm... Guess I can see where you're coming from. Sounds",
+"like you do have something wise to say every once in a while,",
+"."
+],
+[
+"Hmm... Acho que entendo seu ponto. Parece que voc\u00ea tem",
+"algo s\u00e1bio a dizer de vez em quando,",
+"."
+]
+]
+]

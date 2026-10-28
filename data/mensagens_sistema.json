@@ -1,0 +1,312 @@
+[
+[
+145,
+"Found  ",
+"Achou  "
+],
+[
+147,
+"Found ",
+"Achou "
+],
+[
+148,
+"but cannot carry any more,",
+"mas não pode levar mais,"
+],
+[
+149,
+"so returned contents to chest!",
+"devolveu tudo ao baú!"
+],
+[
+151,
+"Found ",
+"Achou "
+],
+[
+151,
+", but cannot",
+", mas não"
+],
+[
+152,
+"carry any more, so returned contents to chest!",
+"pode levar mais; devolveu tudo ao baú!"
+],
+[
+153,
+"Found ",
+"Achou "
+],
+[
+154,
+"but cannot carry them all.",
+"mas não pode levar tudo."
+],
+[
+155,
+"Discard extra ones?",
+"Descartar sobras?"
+],
+[
+156,
+" Discard ",
+"Descartar"
+],
+[
+157,
+" Return to Treasure Chest ",
+" Devolver ao Baú "
+],
+[
+159,
+"Found ",
+"Achou "
+],
+[
+159,
+", but cannot",
+", mas não"
+],
+[
+160,
+"carry any more. Discard it?",
+"pode levar mais. Descartar?"
+],
+[
+161,
+" Discard ",
+"Descartar"
+],
+[
+162,
+" Return to Treasure Chest ",
+" Devolver ao Baú "
+],
+[
+164,
+"Found ",
+"Achou "
+],
+[
+164,
+", but cannot",
+", mas não"
+],
+[
+165,
+"carry any more, so returned contents to chest!",
+"pode levar mais; devolveu tudo ao baú!"
+],
+[
+168,
+"Found ",
+"Achou "
+],
+[
+168,
+", but cannot",
+", mas não"
+],
+[
+169,
+"carry any more, so returned contents to chest!",
+"pode levar mais; devolveu tudo ao baú!"
+],
+[
+205,
+"Welcome to the item shop! Now take a look around and buy",
+"Bem-vindo à loja de itens! Dê uma olhada e compre"
+],
+[
+206,
+"whatever you need!",
+"o que precisar!"
+],
+[
+209,
+"Welcome to the item shop! Now take a look around and buy",
+"Bem-vindo à loja de itens! Dê uma olhada e compre"
+],
+[
+210,
+"whatever you need!",
+"o que precisar!"
+],
+[
+213,
+"If you're in the market for equipment, you've come to the",
+"Procurando equipamentos? Você veio ao"
+],
+[
+214,
+"right place!",
+"lugar certo!"
+],
+[
+217,
+"If you're in the market for equipment, you've come to the",
+"Procurando equipamentos? Você veio ao"
+],
+[
+218,
+"right place!",
+"lugar certo!"
+],
+[
+222,
+"Please come again!",
+"Volte sempre!"
+],
+[
+224,
+"Please come again!",
+"Volte sempre!"
+],
+[
+228,
+"Be sure to stop by if you need anything else!",
+"Passe aqui se precisar de mais alguma coisa!"
+],
+[
+231,
+"Please come again!",
+"Volte sempre!"
+],
+[
+233,
+"Please come again!",
+"Volte sempre!"
+],
+[
+237,
+"Be sure to stop by if you need anything else!",
+"Passe aqui se precisar de mais alguma coisa!"
+],
+[
+240,
+"Don't be a stranger, you hear?",
+"Não suma, hein?"
+],
+[
+242,
+"Don't be a stranger, you hear?",
+"Não suma, hein?"
+],
+[
+246,
+"I appreciate your business and hope to see you again!",
+"Obrigado pela preferência! Volte sempre!"
+],
+[
+249,
+"Don't be a stranger, you hear?",
+"Não suma, hein?"
+],
+[
+251,
+"Don't be a stranger, you hear?",
+"Não suma, hein?"
+],
+[
+255,
+"I appreciate your business and hope to see you again!",
+"Obrigado pela preferência! Volte sempre!"
+],
+[
+257,
+"Is there anything else I can assist you with?",
+"Posso ajudar em mais alguma coisa?"
+],
+[
+259,
+"What else can I help you with?",
+"Em que mais posso ajudar?"
+],
+[
+318,
+"Why hello! You can exchange your Guild Coins for all kinds of",
+"Olá! Aqui você troca Moedas da Guilda por todo tipo de"
+],
+[
+319,
+"items here at the exchange!",
+"itens neste balcão!"
+],
+[
+321,
+"Please come see me again if you would need anything else!",
+"Volte aqui se precisar de mais alguma coisa!"
+],
+[
+468,
+"Unable to use!",
+"Sem efeito!"
+],
+[
+471,
+"Used Teleport!",
+"Teleportou!"
+],
+[
+477,
+"Used Escape!",
+"Usou Fuga!"
+],
+[
+483,
+"There are no treasure chests here to be found...",
+"Não há baús aqui para encontrar..."
+],
+[
+487,
+"All treasure chests in this area have been found!",
+"Todos os baús desta área foram achados!"
+],
+[
+491,
+"There are still %W0% unopened treasure chests in this area!",
+"Ainda há %W0% baús fechados nesta área!"
+],
+[
+494,
+"Cannot use here!",
+"Não use aqui!"
+],
+[
+544,
+"Cannot use here!",
+"Não use aqui!"
+],
+[
+557,
+"Cannot use here!",
+"Não use aqui!"
+],
+[
+541,
+"The presence of monsters decreased!",
+"A presença de monstros diminuiu!"
+],
+[
+554,
+"The presence of monsters increased!",
+"A presença de monstros aumentou!"
+],
+[
+560,
+"Secret passages have become visible!",
+"Passagens secretas apareceram!"
+],
+[
+563,
+"The %w2%'s effects have worn off!",
+"O efeito de %w2% acabou!"
+],
+[
+1011,
+"Starts continuous event battles.",
+"Inicia batalhas em sequência."
+]
+]
